@@ -1,0 +1,1500 @@
+{
+    "BE0003470755": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "BE0003470755",
+        "NAME": "Solvay SA",
+        "SECTOR": null,
+        "TICKER": "SOLB"
+    },
+    "BE0974310428": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "BE0974310428",
+        "NAME": "X-FAB Silicon Foundries SE",
+        "SECTOR": "Technologies",
+        "TICKER": "XFAB"
+    },
+    "CH0308403085": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "CH0308403085",
+        "NAME": "GeNeuro SA",
+        "SECTOR": "Santé",
+        "TICKER": "GNRO"
+    },
+    "FR0000031577": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000031577",
+        "NAME": "Virbac",
+        "SECTOR": "Santé",
+        "TICKER": "VIRP"
+    },
+    "FR0000031775": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000031775",
+        "NAME": "Vicat",
+        "SECTOR": "Matériaux",
+        "TICKER": "VCT"
+    },
+    "FR0000032526": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000032526",
+        "NAME": "Guerbet",
+        "SECTOR": "Santé",
+        "TICKER": "GBT"
+    },
+    "FR0000033003": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000033003",
+        "NAME": "TOUAX SCA",
+        "SECTOR": "Industrie",
+        "TICKER": "TOUP"
+    },
+    "FR0000033219": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000033219",
+        "NAME": "ALTAREA",
+        "SECTOR": "Immobilier",
+        "TICKER": "ALTA"
+    },
+    "FR0000033904": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000033904",
+        "NAME": "Jacquet Metals",
+        "SECTOR": "Matériaux",
+        "TICKER": "JCQ"
+    },
+    "FR0000035081": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000035081",
+        "NAME": "ICADE",
+        "SECTOR": "Immobilier",
+        "TICKER": "ICAD"
+    },
+    "FR0000035164": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000035164",
+        "NAME": "Bénéteau",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "BEN"
+    },
+    "FR0000035370": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000035370",
+        "NAME": "Bastide Le Confort Médical",
+        "SECTOR": "Santé",
+        "TICKER": "BLC"
+    },
+    "FR0000038242": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000038242",
+        "NAME": "LUMIBIRD",
+        "SECTOR": "Santé",
+        "TICKER": "LBIRD"
+    },
+    "FR0000038606": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000038606",
+        "NAME": "Manitou Group",
+        "SECTOR": "Industrie",
+        "TICKER": "MTU"
+    },
+    "FR0000039109": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000039109",
+        "NAME": "Séché Environnement SA",
+        "SECTOR": "Industrie",
+        "TICKER": "SCHP"
+    },
+    "FR0000039232": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000039232",
+        "NAME": "AUREA",
+        "SECTOR": "Industrie",
+        "TICKER": "AURE"
+    },
+    "FR0000039299": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000039299",
+        "NAME": "Bolloré SE",
+        "SECTOR": "Télécommunications",
+        "TICKER": "BOL"
+    },
+    "FR0000039620": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000039620",
+        "NAME": "Mersen",
+        "SECTOR": "Industrie",
+        "TICKER": "MRN"
+    },
+    "FR0000044448": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000044448",
+        "NAME": "Nexans",
+        "SECTOR": "Industrie",
+        "TICKER": "NEX"
+    },
+    "FR0000045072": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000045072",
+        "NAME": "CREDIT AGRICOLE",
+        "SECTOR": "Finance",
+        "TICKER": "ACA"
+    },
+    "FR0000050353": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000050353",
+        "NAME": "LISI S.A.",
+        "SECTOR": "Industrie",
+        "TICKER": "FII"
+    },
+    "FR0000050809": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000050809",
+        "NAME": "Sopra Steria Group",
+        "SECTOR": "Technologies",
+        "TICKER": "SOP"
+    },
+    "FR0000051070": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000051070",
+        "NAME": "Etablissements Maurel & Prom",
+        "SECTOR": "Energie",
+        "TICKER": "MAU"
+    },
+    "FR0000051732": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000051732",
+        "NAME": "AtoS SE",
+        "SECTOR": "Technologies",
+        "TICKER": "ATO"
+    },
+    "FR0000051807": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0000051807",
+        "NAME": "Teleperformance SE",
+        "SECTOR": "Industrie",
+        "TICKER": "TEP"
+    },
+    "FR0000052292": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000052292",
+        "NAME": "Hermès International",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "RMS"
+    },
+    "FR0000053027": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000053027",
+        "NAME": "AKWEL",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "AKW"
+    },
+    "FR0000053225": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000053225",
+        "NAME": "Métropole Télévision",
+        "SECTOR": "Télécommunications",
+        "TICKER": "MMT"
+    },
+    "FR0000053324": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000053324",
+        "NAME": "Compagnie des Alpes",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "CDA"
+    },
+    "FR0000053381": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000053381",
+        "NAME": "Derichebourg",
+        "SECTOR": "Industrie",
+        "TICKER": "DBG"
+    },
+    "FR0000053506": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000053506",
+        "NAME": "Cegedim",
+        "SECTOR": "Santé",
+        "TICKER": "CGM"
+    },
+    "FR0000054231": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000054231",
+        "NAME": "HighCo",
+        "SECTOR": "Télécommunications",
+        "TICKER": "HCO"
+    },
+    "FR0000054470": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0000054470",
+        "NAME": "Ubisoft Entertainment",
+        "SECTOR": "Télécommunications",
+        "TICKER": "UBI"
+    },
+    "FR0000054900": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000054900",
+        "NAME": "TF1",
+        "SECTOR": "Télécommunications",
+        "TICKER": "TFI"
+    },
+    "FR0000061129": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000061129",
+        "NAME": "BOIRON",
+        "SECTOR": "Santé",
+        "TICKER": "BOI"
+    },
+    "FR0000061459": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000061459",
+        "NAME": "Gérard Perrier Industrie",
+        "SECTOR": "Industrie",
+        "TICKER": "PERR"
+    },
+    "FR0000062671": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000062671",
+        "NAME": "Exail Technologies",
+        "SECTOR": "Industrie",
+        "TICKER": "EXA"
+    },
+    "FR0000062796": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000062796",
+        "NAME": "Vranken-Pommery Monopole",
+        "SECTOR": "Consommation de base",
+        "TICKER": "VRAP"
+    },
+    "FR0000062978": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000062978",
+        "NAME": "Dékuple",
+        "SECTOR": "Télécommunications",
+        "TICKER": "DKUPL"
+    },
+    "FR0000063737": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000063737",
+        "NAME": "Aubay",
+        "SECTOR": "Technologies",
+        "TICKER": "AUB"
+    },
+    "FR0000063935": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000063935",
+        "NAME": "Bonduelle",
+        "SECTOR": "Consommation de base",
+        "TICKER": "BON"
+    },
+    "FR0000064578": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000064578",
+        "NAME": "COVIVIO",
+        "SECTOR": "Immobilier",
+        "TICKER": "COV"
+    },
+    "FR0000064784": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000064784",
+        "NAME": "PEUGEOT INVEST",
+        "SECTOR": "Finance",
+        "TICKER": "PEUG"
+    },
+    "FR0000065971": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000065971",
+        "NAME": "Graines Voltz S.A.",
+        "SECTOR": "Matériaux",
+        "TICKER": "GRVO"
+    },
+    "FR0000066607": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000066607",
+        "NAME": "LACROIX Group",
+        "SECTOR": "Technologies",
+        "TICKER": "LACR"
+    },
+    "FR0000066672": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000066672",
+        "NAME": "GL events",
+        "SECTOR": "Industrie",
+        "TICKER": "GLO"
+    },
+    "FR0000066722": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000066722",
+        "NAME": "Guillemot Corporation",
+        "SECTOR": "Technologies",
+        "TICKER": "GUI"
+    },
+    "FR0000066755": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000066755",
+        "NAME": "Haulotte Group",
+        "SECTOR": "Industrie",
+        "TICKER": "PIG"
+    },
+    "FR0000071946": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000071946",
+        "NAME": "Alten",
+        "SECTOR": "Technologies",
+        "TICKER": "ATE"
+    },
+    "FR0000073041": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000073041",
+        "NAME": "Pierre & Vacances",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "VAC"
+    },
+    "FR0000073272": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000073272",
+        "NAME": "Safran",
+        "SECTOR": "Industrie",
+        "TICKER": "SAF"
+    },
+    "FR0000073298": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000073298",
+        "NAME": "Ipsos",
+        "SECTOR": "Télécommunications",
+        "TICKER": "IPS"
+    },
+    "FR0000074072": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000074072",
+        "NAME": "Bigben Interactive",
+        "SECTOR": "Technologies",
+        "TICKER": "BIG"
+    },
+    "FR0000074148": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000074148",
+        "NAME": "Assystem",
+        "SECTOR": "Industrie",
+        "TICKER": "ASY"
+    },
+    "FR0000074783": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000074783",
+        "NAME": "Artmarket.com",
+        "SECTOR": "Télécommunications",
+        "TICKER": "PRC"
+    },
+    "FR0000075392": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000075392",
+        "NAME": "ORAPI",
+        "SECTOR": "Matériaux",
+        "TICKER": "ORAP"
+    },
+    "FR0000076861": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000076861",
+        "NAME": "Acteos",
+        "SECTOR": "Technologies",
+        "TICKER": "EOS"
+    },
+    "FR0000077919": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000077919",
+        "NAME": "JCDECAUX SE",
+        "SECTOR": "Télécommunications",
+        "TICKER": "DEC"
+    },
+    "FR0000120073": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000120073",
+        "NAME": "L'Air Liquide",
+        "SECTOR": "Matériaux",
+        "TICKER": "AI"
+    },
+    "FR0000120172": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000120172",
+        "NAME": "Carrefour",
+        "SECTOR": "Consommation de base",
+        "TICKER": "CA"
+    },
+    "FR0000120271": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000120271",
+        "NAME": "TotalEnergies SE",
+        "SECTOR": "Energie",
+        "TICKER": "TTE"
+    },
+    "FR0000120321": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000120321",
+        "NAME": "L'Oréal",
+        "SECTOR": "Consommation de base",
+        "TICKER": "OR"
+    },
+    "FR0000120404": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0000120404",
+        "NAME": "Accor",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "AC"
+    },
+    "FR0000120503": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000120503",
+        "NAME": "Bouygues SA",
+        "SECTOR": "Industrie",
+        "TICKER": "EN"
+    },
+    "FR0000120560": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000120560",
+        "NAME": "Quadient S.A.",
+        "SECTOR": "Technologies",
+        "TICKER": "QDT"
+    },
+    "FR0000120578": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000120578",
+        "NAME": "Sanofi",
+        "SECTOR": "Santé",
+        "TICKER": "SAN"
+    },
+    "FR0000120628": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000120628",
+        "NAME": "AXA",
+        "SECTOR": "Finance",
+        "TICKER": "CS"
+    },
+    "FR0000120644": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000120644",
+        "NAME": "Danone",
+        "SECTOR": "Consommation de base",
+        "TICKER": "BN"
+    },
+    "FR0000120669": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000120669",
+        "NAME": "Esso S.A.F.",
+        "SECTOR": "Energie",
+        "TICKER": "ES"
+    },
+    "FR0000120693": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000120693",
+        "NAME": "Pernod Ricard",
+        "SECTOR": "Consommation de base",
+        "TICKER": "RI"
+    },
+    "FR0000120859": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000120859",
+        "NAME": "Imerys",
+        "SECTOR": "Matériaux",
+        "TICKER": "NK"
+    },
+    "FR0000120966": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000120966",
+        "NAME": "Bic",
+        "SECTOR": "Consommation de base",
+        "TICKER": "BB"
+    },
+    "FR0000121014": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000121014",
+        "NAME": "LVMH Moët Hennessy Louis Vuitton SE",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "MC"
+    },
+    "FR0000121121": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000121121",
+        "NAME": "Eurazeo SE",
+        "SECTOR": "Finance",
+        "TICKER": "RF"
+    },
+    "FR0000121147": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0000121147",
+        "NAME": "FORVIA SE",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "FRVIA"
+    },
+    "FR0000121204": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000121204",
+        "NAME": "WENDEL",
+        "SECTOR": "Finance",
+        "TICKER": "MF"
+    },
+    "FR0000121220": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0000121220",
+        "NAME": "Sodexo",
+        "SECTOR": "Industrie",
+        "TICKER": "SW"
+    },
+    "FR0000121329": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0000121329",
+        "NAME": "Thales",
+        "SECTOR": "Industrie",
+        "TICKER": "HO"
+    },
+    "FR0000121485": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000121485",
+        "NAME": "Kering",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "KER"
+    },
+    "FR0000121667": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000121667",
+        "NAME": "EssilorLuxottica",
+        "SECTOR": "Santé",
+        "TICKER": "EL"
+    },
+    "FR0000121709": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000121709",
+        "NAME": "SEB S.A.",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "SK"
+    },
+    "FR0000121964": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0000121964",
+        "NAME": "KLEPIERRE",
+        "SECTOR": "Immobilier",
+        "TICKER": "LI"
+    },
+    "FR0000121972": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000121972",
+        "NAME": "Schneider Electric SE",
+        "SECTOR": "Industrie",
+        "TICKER": "SU"
+    },
+    "FR0000124141": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000124141",
+        "NAME": "Veolia Environnement",
+        "SECTOR": "Services aux collectivités",
+        "TICKER": "VIE"
+    },
+    "FR0000125007": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000125007",
+        "NAME": "Compagnie de Saint-Gobain",
+        "SECTOR": "Industrie",
+        "TICKER": "SGO"
+    },
+    "FR0000125338": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000125338",
+        "NAME": "Capgemini SE",
+        "SECTOR": "Technologies",
+        "TICKER": "CAP"
+    },
+    "FR0000125486": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000125486",
+        "NAME": "VINCI",
+        "SECTOR": "Industrie",
+        "TICKER": "DG"
+    },
+    "FR0000127771": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0000127771",
+        "NAME": "Vivendi SE",
+        "SECTOR": "Télécommunications",
+        "TICKER": "VIV"
+    },
+    "FR0000130213": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000130213",
+        "NAME": "Lagardère S.A.",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "MMB"
+    },
+    "FR0000130395": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0000130395",
+        "NAME": "Rémy Cointreau",
+        "SECTOR": "Consommation de base",
+        "TICKER": "RCO"
+    },
+    "FR0000130452": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0000130452",
+        "NAME": "Eiffage S.A.",
+        "SECTOR": "Industrie",
+        "TICKER": "FGR"
+    },
+    "FR0000130577": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000130577",
+        "NAME": "Publicis Groupe S.A.",
+        "SECTOR": "Télécommunications",
+        "TICKER": "PUB"
+    },
+    "FR0000130692": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0000130692",
+        "NAME": "Chargeurs",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "CRI"
+    },
+    "FR0000130809": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000130809",
+        "NAME": "SOCIETE GENERALE",
+        "SECTOR": "Finance",
+        "TICKER": "GLE"
+    },
+    "FR0000131104": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000131104",
+        "NAME": "BNP PARIBAS ACT.A",
+        "SECTOR": "Finance",
+        "TICKER": "BNP"
+    },
+    "FR0000131757": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0000131757",
+        "NAME": "Eramet",
+        "SECTOR": "Matériaux",
+        "TICKER": "ERA"
+    },
+    "FR0000131906": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000131906",
+        "NAME": "Renault",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "RNO"
+    },
+    "FR0000133308": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0000133308",
+        "NAME": "Orange",
+        "SECTOR": "Télécommunications",
+        "TICKER": "ORA"
+    },
+    "FR0004007813": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004007813",
+        "NAME": "Kaufman & Broad SA",
+        "SECTOR": "Immobilier",
+        "TICKER": "KOF"
+    },
+    "FR0004024222": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0004024222",
+        "NAME": "Interparfums",
+        "SECTOR": "Consommation de base",
+        "TICKER": "ITP"
+    },
+    "FR0004034072": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004034072",
+        "NAME": "Xilam Animation",
+        "SECTOR": "Télécommunications",
+        "TICKER": "XIL"
+    },
+    "FR0004038263": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004038263",
+        "NAME": "Parrot",
+        "SECTOR": "Technologies",
+        "TICKER": "PARRO"
+    },
+    "FR0004040608": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004040608",
+        "NAME": "ABC ARBITRAGE",
+        "SECTOR": "Finance",
+        "TICKER": "ABCA"
+    },
+    "FR0004056851": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0004056851",
+        "NAME": "Valneva",
+        "SECTOR": "Santé",
+        "TICKER": "VLA"
+    },
+    "FR0004065605": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004065605",
+        "NAME": "MedinCell S.A.",
+        "SECTOR": "Santé",
+        "TICKER": "MEDCL"
+    },
+    "FR0004125920": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0004125920",
+        "NAME": "AMUNDI",
+        "SECTOR": "Finance",
+        "TICKER": "AMUN"
+    },
+    "FR0004155000": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004155000",
+        "NAME": "Groupe SFPI",
+        "SECTOR": "Industrie",
+        "TICKER": "SFPI"
+    },
+    "FR0004156297": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004156297",
+        "NAME": "Linedata Services",
+        "SECTOR": "Technologies",
+        "TICKER": "LIN"
+    },
+    "FR0004163111": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004163111",
+        "NAME": "GENFIT",
+        "SECTOR": "Santé",
+        "TICKER": "GNFT"
+    },
+    "FR0004170017": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004170017",
+        "NAME": "LNA Santé",
+        "SECTOR": "Santé",
+        "TICKER": "LNA"
+    },
+    "FR0004177046": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004177046",
+        "NAME": "METabolic EXplorer",
+        "SECTOR": "Matériaux",
+        "TICKER": "METEX"
+    },
+    "FR0004180578": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004180578",
+        "NAME": "Sword Group SE",
+        "SECTOR": "Technologies",
+        "TICKER": "SWP"
+    },
+    "FR0004186856": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0004186856",
+        "NAME": "Vetoquinol SA",
+        "SECTOR": "Santé",
+        "TICKER": "VETO"
+    },
+    "FR0005175080": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0005175080",
+        "NAME": "Transgene",
+        "SECTOR": "Santé",
+        "TICKER": "TNG"
+    },
+    "FR0005691656": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0005691656",
+        "NAME": "Trigano",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "TRI"
+    },
+    "FR0006174348": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0006174348",
+        "NAME": "Bureau Veritas SA",
+        "SECTOR": "Industrie",
+        "TICKER": "BVI"
+    },
+    "FR0010040865": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0010040865",
+        "NAME": "GECINA",
+        "SECTOR": "Immobilier",
+        "TICKER": "GFC"
+    },
+    "FR0010112524": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0010112524",
+        "NAME": "Nexity",
+        "SECTOR": "Immobilier",
+        "TICKER": "NXI"
+    },
+    "FR0010151589": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0010151589",
+        "NAME": "Cafom",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "CAFO"
+    },
+    "FR0010193052": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0010193052",
+        "NAME": "Catana Group",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "CATG"
+    },
+    "FR0010193979": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0010193979",
+        "NAME": "CBO TERRITORIA",
+        "SECTOR": "Immobilier",
+        "TICKER": "CBOT"
+    },
+    "FR0010208488": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0010208488",
+        "NAME": "ENGIE",
+        "SECTOR": "Services aux collectivités",
+        "TICKER": "ENGI"
+    },
+    "FR0010220475": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0010220475",
+        "NAME": "Alstom",
+        "SECTOR": "Industrie",
+        "TICKER": "ALO"
+    },
+    "FR0010221234": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0010221234",
+        "NAME": "Eutelsat Communications",
+        "SECTOR": "Technologies",
+        "TICKER": "ETL"
+    },
+    "FR0010241638": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0010241638",
+        "NAME": "MERCIALYS",
+        "SECTOR": "Immobilier",
+        "TICKER": "MERY"
+    },
+    "FR0010259150": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0010259150",
+        "NAME": "Ipsen",
+        "SECTOR": "Santé",
+        "TICKER": "IPN"
+    },
+    "FR0010263202": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0010263202",
+        "NAME": "PAREF",
+        "SECTOR": "Immobilier",
+        "TICKER": "PAR"
+    },
+    "FR0010291245": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0010291245",
+        "NAME": "Verimatrix",
+        "SECTOR": "Technologies",
+        "TICKER": "VMX"
+    },
+    "FR0010298620": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0010298620",
+        "NAME": "Memscap",
+        "SECTOR": "Technologies",
+        "TICKER": "MEMS"
+    },
+    "FR0010307819": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0010307819",
+        "NAME": "Legrand",
+        "SECTOR": "Industrie",
+        "TICKER": "LR"
+    },
+    "FR0010313833": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0010313833",
+        "NAME": "Arkema",
+        "SECTOR": "Matériaux",
+        "TICKER": "AKE"
+    },
+    "FR0010331421": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0010331421",
+        "NAME": "Innate Pharma",
+        "SECTOR": "Santé",
+        "TICKER": "IPH"
+    },
+    "FR0010340141": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0010340141",
+        "NAME": "Aéroports de Paris",
+        "SECTOR": "Industrie",
+        "TICKER": "ADP"
+    },
+    "FR0010411983": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0010411983",
+        "NAME": "SCOR SE",
+        "SECTOR": "Finance",
+        "TICKER": "SCR"
+    },
+    "FR0010417345": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0010417345",
+        "NAME": "DBV Technologies",
+        "SECTOR": "Santé",
+        "TICKER": "DBV"
+    },
+    "FR0010451203": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0010451203",
+        "NAME": "Rexel",
+        "SECTOR": "Industrie",
+        "TICKER": "RXL"
+    },
+    "FR0010533075": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0010533075",
+        "NAME": "Getlink SE",
+        "SECTOR": "Industrie",
+        "TICKER": "GET"
+    },
+    "FR0010557264": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0010557264",
+        "NAME": "AB Science",
+        "SECTOR": "Santé",
+        "TICKER": "AB"
+    },
+    "FR0010609206": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0010609206",
+        "NAME": "Orège",
+        "SECTOR": "Industrie",
+        "TICKER": "OREGE"
+    },
+    "FR0010667147": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0010667147",
+        "NAME": "COFACE",
+        "SECTOR": "Finance",
+        "TICKER": "COFA"
+    },
+    "FR0010828137": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0010828137",
+        "NAME": "CARMILA",
+        "SECTOR": "Immobilier",
+        "TICKER": "CARM"
+    },
+    "FR0010908533": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0010908533",
+        "NAME": "Edenred SE",
+        "SECTOR": "Finance",
+        "TICKER": "EDEN"
+    },
+    "FR0010929125": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0010929125",
+        "NAME": "ID Logistics Group",
+        "SECTOR": "Industrie",
+        "TICKER": "IDL"
+    },
+    "FR0011184241": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0011184241",
+        "NAME": "Adocia",
+        "SECTOR": "Santé",
+        "TICKER": "ADOC"
+    },
+    "FR0011289040": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0011289040",
+        "NAME": "SQLI",
+        "SECTOR": "Technologies",
+        "TICKER": "SQI"
+    },
+    "FR0011341205": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0011341205",
+        "NAME": "Nanobiotix",
+        "SECTOR": "Santé",
+        "TICKER": "NANO"
+    },
+    "FR0011466069": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0011466069",
+        "NAME": "Ekinops",
+        "SECTOR": "Technologies",
+        "TICKER": "EKI"
+    },
+    "FR0011476928": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0011476928",
+        "NAME": "Fnac Darty",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "FNAC"
+    },
+    "FR0011675362": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0011675362",
+        "NAME": "Neoen",
+        "SECTOR": "Services aux collectivités",
+        "TICKER": "NEOEN"
+    },
+    "FR0011726835": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0011726835",
+        "NAME": "Gaztransport & Technigaz",
+        "SECTOR": "Energie",
+        "TICKER": "GTT"
+    },
+    "FR0011742329": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0011742329",
+        "NAME": "McPhy Energy",
+        "SECTOR": "Industrie",
+        "TICKER": "MCPHY"
+    },
+    "FR0011950682": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0011950682",
+        "NAME": "SergeFerrari Group",
+        "SECTOR": "Industrie",
+        "TICKER": "SEFER"
+    },
+    "FR0011950732": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0011950732",
+        "NAME": "Elior Group",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "ELIOR"
+    },
+    "FR0011981968": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0011981968",
+        "NAME": "Worldline",
+        "SECTOR": "Technologies",
+        "TICKER": "WLN"
+    },
+    "FR0011995588": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0011995588",
+        "NAME": "Voltalia SA",
+        "SECTOR": "Services aux collectivités",
+        "TICKER": "VLTSA"
+    },
+    "FR0012127173": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0012127173",
+        "NAME": "OSE Immunotherapeutics",
+        "SECTOR": "Santé",
+        "TICKER": "OSE"
+    },
+    "FR0012333284": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0012333284",
+        "NAME": "Abivax",
+        "SECTOR": "Santé",
+        "TICKER": "ABVX"
+    },
+    "FR0012432516": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0012432516",
+        "NAME": "Poxel",
+        "SECTOR": "Santé",
+        "TICKER": "POXEL"
+    },
+    "FR0012435121": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0012435121",
+        "NAME": "Elis",
+        "SECTOR": "Industrie",
+        "TICKER": "ELIS"
+    },
+    "FR0012613610": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0012613610",
+        "NAME": "Prodways Group",
+        "SECTOR": "Industrie",
+        "TICKER": "PWG"
+    },
+    "FR0012616852": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0012616852",
+        "NAME": "ABIONYX Pharma",
+        "SECTOR": "Santé",
+        "TICKER": "ABNX"
+    },
+    "FR0012757854": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0012757854",
+        "NAME": "SPIE SA",
+        "SECTOR": "Industrie",
+        "TICKER": "SPIE"
+    },
+    "FR0012882389": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0012882389",
+        "NAME": "Equasens",
+        "SECTOR": "Santé",
+        "TICKER": "EQS"
+    },
+    "FR0013006558": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013006558",
+        "NAME": "SRP Groupe",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "SRP"
+    },
+    "FR0013030152": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013030152",
+        "NAME": "La Française de l'Energie",
+        "SECTOR": "Energie",
+        "TICKER": "FDE"
+    },
+    "FR0013153541": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013153541",
+        "NAME": "Maisons du Monde",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "MDM"
+    },
+    "FR0013154002": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0013154002",
+        "NAME": "Sartorius Stedim Biotech",
+        "SECTOR": "Santé",
+        "TICKER": "DIM"
+    },
+    "FR0013176526": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0013176526",
+        "NAME": "Valeo",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "FR"
+    },
+    "FR0013183985": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013183985",
+        "NAME": "GenSight Biologics S.A.",
+        "SECTOR": "Santé",
+        "TICKER": "SIGHT"
+    },
+    "FR0013185857": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013185857",
+        "NAME": "ABEO SA",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "ABEO"
+    },
+    "FR0013214145": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013214145",
+        "NAME": "SMCP S.A",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "SMCP"
+    },
+    "FR0013227113": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0013227113",
+        "NAME": "Soitec",
+        "SECTOR": "Technologies",
+        "TICKER": "SOI"
+    },
+    "FR0013233012": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013233012",
+        "NAME": "Inventiva",
+        "SECTOR": "Santé",
+        "TICKER": "IVA"
+    },
+    "FR0013252186": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013252186",
+        "NAME": "Plastiques du Val-de-Loire",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "PVL"
+    },
+    "FR0013258399": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013258399",
+        "NAME": "BALYO",
+        "SECTOR": "Industrie",
+        "TICKER": "BALYO"
+    },
+    "FR0013258662": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0013258662",
+        "NAME": "ALD Automotive",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "AYV"
+    },
+    "FR0013269123": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0013269123",
+        "NAME": "Rubis",
+        "SECTOR": "Services aux collectivités",
+        "TICKER": "RUI"
+    },
+    "FR0013280286": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR0013280286",
+        "NAME": "bioMérieux",
+        "SECTOR": "Santé",
+        "TICKER": "BIM"
+    },
+    "FR0013326246": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0013326246",
+        "NAME": "UNIBAIL-RODAM.UNIT",
+        "SECTOR": "Immobilier",
+        "TICKER": "URW"
+    },
+    "FR0013357621": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013357621",
+        "NAME": "Wavestone",
+        "SECTOR": "Technologies",
+        "TICKER": "WAVE"
+    },
+    "FR0013379484": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0013379484",
+        "NAME": "Solutions 30 SE",
+        "SECTOR": "Technologies",
+        "TICKER": "S30"
+    },
+    "FR0013426004": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013426004",
+        "NAME": "Claranova SE",
+        "SECTOR": "Technologies",
+        "TICKER": "CLA"
+    },
+    "FR0013447729": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0013447729",
+        "NAME": "Verallia",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "VRLA"
+    },
+    "FR0013451333": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0013451333",
+        "NAME": "La Française des Jeux",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "FDJ"
+    },
+    "FR0013455482": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013455482",
+        "NAME": "ATLAND",
+        "SECTOR": "Immobilier",
+        "TICKER": "ATLD"
+    },
+    "FR0013482791": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013482791",
+        "NAME": "NACON",
+        "SECTOR": "Télécommunications",
+        "TICKER": "NACON"
+    },
+    "FR0013505062": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0013505062",
+        "NAME": "Vantiva",
+        "SECTOR": "Télécommunications",
+        "TICKER": "VANTI"
+    },
+    "FR0013506730": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0013506730",
+        "NAME": "Vallourec",
+        "SECTOR": "Matériaux",
+        "TICKER": "VK"
+    },
+    "FR00140006O9": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR00140006O9",
+        "NAME": "SoLocal Group",
+        "SECTOR": "Télécommunications",
+        "TICKER": "LOCAL"
+    },
+    "FR0014000MR3": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0014000MR3",
+        "NAME": "Eurofins Scientific SE",
+        "SECTOR": "Santé",
+        "TICKER": "ERF"
+    },
+    "FR0014003FE9": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0014003FE9",
+        "NAME": "Believe",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "BLV"
+    },
+    "FR0014003TT8": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR0014003TT8",
+        "NAME": "Dassault Systèmes SE",
+        "SECTOR": "Technologies",
+        "TICKER": "DSY"
+    },
+    "FR0014003U94": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0014003U94",
+        "NAME": "Aramis Group",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "ARAMI"
+    },
+    "FR0014003VY4": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0014003VY4",
+        "NAME": "Hydrogène de France",
+        "SECTOR": "Services aux collectivités",
+        "TICKER": "HDF"
+    },
+    "FR0014004L86": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0014004L86",
+        "NAME": "Dassault Aviation",
+        "SECTOR": "Industrie",
+        "TICKER": "AM"
+    },
+    "FR0014005AL0": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0014005AL0",
+        "NAME": "ANTIN INFRASTRUCTURE PARTNERS",
+        "SECTOR": "Finance",
+        "TICKER": "ANTIN"
+    },
+    "FR0014005HJ9": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0014005HJ9",
+        "NAME": "OVH Groupe",
+        "SECTOR": "Technologies",
+        "TICKER": "OVH"
+    },
+    "FR0014005SB3": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0014005SB3",
+        "NAME": "Forsee Power",
+        "SECTOR": "Industrie",
+        "TICKER": "FORSE"
+    },
+    "FR0014008VX5": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR0014008VX5",
+        "NAME": "EUROAPI",
+        "SECTOR": "Santé",
+        "TICKER": "EAPI"
+    },
+    "FR0014009YQ1": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR0014009YQ1",
+        "NAME": "Lhyfe",
+        "SECTOR": "Industrie",
+        "TICKER": "LHYFE"
+    },
+    "FR001400AJ45": {
+        "INDEX": "CAC_40",
+        "ISIN": "FR001400AJ45",
+        "NAME": "Compagnie Générale des Etablissements Michelin",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "ML"
+    },
+    "FR001400CFI7": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR001400CFI7",
+        "NAME": "Avenir Telecom",
+        "SECTOR": "Technologies",
+        "TICKER": "AVT"
+    },
+    "FR001400IE67": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR001400IE67",
+        "NAME": "MYHOTELMATCH",
+        "SECTOR": "Immobilier",
+        "TICKER": "MHM"
+    },
+    "FR001400J770": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "FR001400J770",
+        "NAME": "Air France-KLM",
+        "SECTOR": "Industrie",
+        "TICKER": "AF"
+    },
+    "FR001400JY13": {
+        "INDEX": "CAC_SMALL",
+        "ISIN": "FR001400JY13",
+        "NAME": "Latécoère",
+        "SECTOR": "Industrie",
+        "TICKER": "LAT"
+    },
+    "FR001400OKR3": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR001400OKR3",
+        "NAME": "Casino, Guichard-Perrachon SA",
+        "SECTOR": "Consommation de base",
+        "TICKER": "CO"
+    },
+    "LU0088087324": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "LU0088087324",
+        "NAME": "SES S.A.",
+        "SECTOR": "Télécommunications",
+        "TICKER": "SESG"
+    },
+    "LU0569974404": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "LU0569974404",
+        "NAME": "Aperam S.A.",
+        "SECTOR": null,
+        "TICKER": "APAM"
+    },
+    "LU1598757687": {
+        "INDEX": "CAC_40",
+        "ISIN": "LU1598757687",
+        "NAME": "ArcelorMittal",
+        "SECTOR": null,
+        "TICKER": "MT"
+    },
+    "NL0000226223": {
+        "INDEX": "CAC_40",
+        "ISIN": "NL0000226223",
+        "NAME": "STMicroelectronics N.V.",
+        "SECTOR": "Technologies",
+        "TICKER": "STMPA"
+    },
+    "NL0000235190": {
+        "INDEX": "CAC_40",
+        "ISIN": "NL0000235190",
+        "NAME": "Airbus SE",
+        "SECTOR": "Industrie",
+        "TICKER": "AIR"
+    },
+    "NL0006294274": {
+        "INDEX": "CAC_NEXT_20",
+        "ISIN": "NL0006294274",
+        "NAME": "EURONEXT",
+        "SECTOR": "Finance",
+        "TICKER": "ENX"
+    },
+    "NL0014559478": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "NL0014559478",
+        "NAME": "Technip Energies N.V.",
+        "SECTOR": "Energie",
+        "TICKER": "TE"
+    },
+    "NL00150001Q9": {
+        "INDEX": "CAC_40",
+        "ISIN": "NL00150001Q9",
+        "NAME": "Stellantis N.V.",
+        "SECTOR": "Consommation discrétionnaire",
+        "TICKER": "STLAP"
+    }
+}
