@@ -69,10 +69,10 @@ class UpdateFiles:
 					}
 			# Sauvegarde les fichiers
 			self.file_dividend.save(sort_keys=True)
-			pandas.read_json(self.file_dividend.path).to_csv(f"{self.file_dividend.path.rsplit('.', maxsplit=1)[0]}.csv")
+			pandas.read_json(self.file_dividend.path).to_csv(f"{self.file_dividend.path.rsplit('.', maxsplit=1)[0]}.csv", header=False)
 
 
 if __name__ == '__main__':
 	u = UpdateFiles()
 	u.updateEnterprise()
-	# u.updateDividend()
+	u.updateDividend()

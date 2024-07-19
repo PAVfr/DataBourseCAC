@@ -164,7 +164,7 @@
             "DATE_PAYEMENT": "2022-05-31",
             "EX_DIVIDEND": "2022-05-27",
             "ISIN": "FR0000033219",
-            "VALUE": 3.56
+            "VALUE": 6.19
         },
         "2023-06-12": {
             "DATE_PAYEMENT": "2023-07-04",
@@ -176,7 +176,7 @@
             "DATE_PAYEMENT": "2024-07-05",
             "EX_DIVIDEND": "2024-06-12",
             "ISIN": "FR0000033219",
-            "VALUE": 2.0
+            "VALUE": 8.0
         }
     },
     "FR0000033904": {
@@ -804,7 +804,7 @@
             "DATE_PAYEMENT": "2024-03-22",
             "EX_DIVIDEND": "2024-03-20",
             "ISIN": "FR0000053324",
-            "VALUE": 0.11
+            "VALUE": 0.8
         }
     },
     "FR0000053381": {
@@ -1170,7 +1170,7 @@
             "DATE_PAYEMENT": "2023-06-01",
             "EX_DIVIDEND": "2023-04-24",
             "ISIN": "FR0000064578",
-            "VALUE": 2.46
+            "VALUE": 1.29
         },
         "2024-04-19": {
             "DATE_PAYEMENT": "2024-05-27",
@@ -1760,7 +1760,7 @@
             "DATE_PAYEMENT": "2023-05-25",
             "EX_DIVIDEND": "2023-05-23",
             "ISIN": "FR0000120404",
-            "VALUE": 0.71
+            "VALUE": 0.34
         },
         "2024-06-06": {
             "DATE_PAYEMENT": "2024-06-07",
@@ -2326,7 +2326,7 @@
             "DATE_PAYEMENT": "2023-07-11",
             "EX_DIVIDEND": "2023-07-07",
             "ISIN": "FR0000121964",
-            "VALUE": 0.84
+            "VALUE": 0.04
         },
         "2024-03-22": {
             "DATE_PAYEMENT": "2024-03-26",
@@ -3730,7 +3730,7 @@
             "DATE_PAYEMENT": "2022-05-24",
             "EX_DIVIDEND": "2022-05-20",
             "ISIN": "FR0010667147",
-            "VALUE": 0.59
+            "VALUE": 0.91
         },
         "2023-05-22": {
             "DATE_PAYEMENT": "2023-05-24",
@@ -4875,6 +4875,38 @@
             "EX_DIVIDEND": "2008-06-25",
             "ISIN": "FR001400JY13",
             "VALUE": 0.5
+        }
+    },
+    "FR001400NLM4": {
+        "2016-07-07": {
+            "DATE_PAYEMENT": "2016-07-11",
+            "EX_DIVIDEND": "2016-07-07",
+            "ISIN": "FR001400NLM4",
+            "VALUE": 0.2
+        },
+        "2017-07-07": {
+            "DATE_PAYEMENT": "2017-07-11",
+            "EX_DIVIDEND": "2017-07-07",
+            "ISIN": "FR001400NLM4",
+            "VALUE": 1.0
+        },
+        "2018-07-13": {
+            "DATE_PAYEMENT": "2018-07-17",
+            "EX_DIVIDEND": "2018-07-13",
+            "ISIN": "FR001400NLM4",
+            "VALUE": 1.1
+        },
+        "2019-07-12": {
+            "DATE_PAYEMENT": "2019-07-16",
+            "EX_DIVIDEND": "2019-07-12",
+            "ISIN": "FR001400NLM4",
+            "VALUE": 1.2
+        },
+        "2021-07-09": {
+            "DATE_PAYEMENT": "2021-07-13",
+            "EX_DIVIDEND": "2021-07-09",
+            "ISIN": "FR001400NLM4",
+            "VALUE": 0.9
         }
     },
     "FR001400OKR3": {
