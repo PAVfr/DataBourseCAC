@@ -1434,6 +1434,13 @@
         "SECTOR": "Industrie",
         "TICKER": "LAT"
     },
+    "FR001400NLM4": {
+        "INDEX": "CAC_MID_60",
+        "ISIN": "FR001400NLM4",
+        "NAME": "EMEIS",
+        "SECTOR": "Services aux collectivités",
+        "TICKER": "EMEIS"
+    },
     "FR001400OKR3": {
         "INDEX": "CAC_MID_60",
         "ISIN": "FR001400OKR3",
