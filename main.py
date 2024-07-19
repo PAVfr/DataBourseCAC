@@ -39,7 +39,7 @@ class UpdateFiles:
 		self.file_enterprise.data = {k: v for k, v in self.file_enterprise.data.items() if k in data_paris.keys()}
 		# Sauvegarde les fichiers
 		self.file_enterprise.save(sort_keys=True)
-		pandas.read_json(self.file_enterprise.path).to_csv(f"{self.file_enterprise.path.rsplit('.', maxsplit=1)[0]}.csv")
+		pandas.read_json(self.file_enterprise.path).to_csv(f"{self.file_enterprise.path.rsplit('.', maxsplit=1)[0]}.csv", header=False)
 
 	def updateDividend(self):
 		# Variable & Lambda
@@ -74,5 +74,5 @@ class UpdateFiles:
 
 if __name__ == '__main__':
 	u = UpdateFiles()
-	# u.updateEnterprise()
-	u.updateDividend()
+	u.updateEnterprise()
+	# u.updateDividend()
