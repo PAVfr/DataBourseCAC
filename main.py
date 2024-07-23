@@ -53,7 +53,7 @@ class UpdateFiles:
 				# Variable
 				ex_dividend = line.get('date_ex_dividend')
 				date_payement = line.get("date_payement")
-				value = float(line.get('value').replace(",", "."))
+				value = line.get('value').replace(".", ",")
 
 				# Ignore Future Dividende
 				if datetime.date.today() < fdate(txt=ex_dividend):
@@ -65,7 +65,7 @@ class UpdateFiles:
 					"ISIN": ISIN,
 					"EX_DIVIDEND": ex_dividend,
 					"DATE_PAYEMENT": date_payement,
-					"VALUE": float(value)
+					"VALUE": value
 					}
 			# Sauvegarde les fichiers
 			self.file_dividend.save(sort_keys=True)
