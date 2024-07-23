@@ -69,7 +69,18 @@ class UpdateFiles:
 					}
 			# Sauvegarde les fichiers
 			self.file_dividend.save(sort_keys=True)
-			pandas.read_json(self.file_dividend.path).to_csv(f"{self.file_dividend.path.rsplit('.', maxsplit=1)[0]}.csv", header=False)
+			# Convertie le json et créé le csv
+			data = {}
+			values = []
+			for k, v in self.file_dividend.data.items():
+				for m, x in v.items():
+					values.append(x)
+			for line in values:
+				for k, v in line.items():
+					if data.get(k) is None:
+						data[k] = []
+					data[k].append(v)
+			pandas.DataFrame(data).to_csv(f"{self.file_dividend.path.rsplit('.', maxsplit=1)[0]}.csv", index=False)
 
 
 if __name__ == '__main__':
