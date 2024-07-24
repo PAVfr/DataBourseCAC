@@ -58,15 +58,18 @@ class UpdateFiles:
 				# Ignore Future Dividende
 				if datetime.date.today() < fdate(txt=ex_dividend):
 					continue
-
+				# Ajoute les données si la date de dividende n'existe pas déjà et l'affiche
 				if self.file_dividend.data.get(ISIN) is None:
 					self.file_dividend.data[ISIN] = {}
-				self.file_dividend.data[ISIN][ex_dividend] = {
-					"ISIN": ISIN,
-					"EX_DIVIDEND": ex_dividend,
-					"DATE_PAYEMENT": date_payement,
-					"VALUE": value
-					}
+				if self.file_dividend.data[ISIN].get(ex_dividend) is None:
+					data = {
+						"ISIN": ISIN,
+						"EX_DIVIDEND": ex_dividend,
+						"VALUE": value,
+						"CHECKED": False
+						}
+					self.file_dividend.data[ISIN][ex_dividend] = data
+					print(f"\t\t{data}")
 			# Sauvegarde les fichiers
 			self.file_dividend.save(sort_keys=True)
 			# Convertie le json et créé le csv
