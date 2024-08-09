@@ -6,10 +6,10 @@ from options import Options
 
 class Dividend:
 	@classmethod
-	def dividend(cls, url: str) -> list[dict]:
+	def dividend(cls, href: str) -> list[dict]:
 		values = []
 		try:
-			response = Options.requestGet(url)
+			response = Options.requestGet(f"https://rendementbourse.com{href}/dividendes")
 			selector_isin = "#app > main > div.mb-4.py-3 > div > div.col-lg-5.col-xl-4 > div:nth-child(4) > div:nth-child(2) > section:nth-child(11) > div > div > p"
 			ISIN = response.select_one(selector_isin).text.replace("  ", "").splitlines()[-1].replace(".", "").rsplit(maxsplit=1)[-1]
 
@@ -20,12 +20,12 @@ class Dividend:
 			for line in [[x for x in v.split(";") if x] for v in tr]:
 				if re.match(r"\d+,\d+", line[index_value]):
 					EX_DIVIDEND = line[index_ex_div]
-					values.append({
+					values.insert(0, {
 						"ISIN": ISIN,
 						"EX_DIVIDEND": EX_DIVIDEND,
-						"VALUE": line[index_value]
+						"VALUE": line[index_value].replace(".", ",")
 						})
-		except AttributeError:
+		except:
 			pass
 		return values
 
@@ -33,5 +33,5 @@ class Dividend:
 if __name__ == '__main__':
 	div = Dividend()
 	# r = div.dividend(url="https://rendementbourse.com/bnp-bnp-paribas/dividendes")
-	r = div.dividend(url="https://rendementbourse.com/ovh-ovh-group-sas/dividendes")
+	r = div.dividend(url="/ovh-ovh-group-sas")
 	print(r)

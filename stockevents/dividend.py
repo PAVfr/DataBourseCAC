@@ -10,16 +10,19 @@ class Dividend:
 
 	@classmethod
 	def dividend_history(cls, ticker: str):
+		values = []
 		soup = Options.requestGet(f"{cls.URL}/fr/stock/{ticker}.PA")
 		lines = [element for element in soup.find_all("a", href=True) if element.get("href").startswith("/fr/event/dividends/") and element.get("target") is None]
-		if len(lines) == 0:
-			return []
-		else:
-			return [{**{
-				"ticker": ticker,
-				"href": line.get("href"),
-				"value": line.find_all("span")[-1].text.replace(".", ",").replace("€", ""),
-				}, **cls.getInfos(href=line.get("href"))} for line in lines]
+
+		for line in lines:
+			data = {
+				"TICKER": ticker,
+				"HREF": line.get("href"),
+				"VALUE": line.find_all("span")[-1].text.replace(".", ",").replace("€", ""),
+				}
+			data.update(cls.getInfos(href=line.get("href")))
+			values.insert(0, data)
+		return values
 
 	@classmethod
 	def getInfos(cls, href: str):
@@ -43,8 +46,8 @@ class Dividend:
 			date_paye = "N/A"
 
 		return {
-			"date_ex_dividend": cls._format_date(date_ex_dividend),
-			"date_payement": date_paye
+			"EX_DIVIDEND": cls._format_date(date_ex_dividend),
+			"PAYEMENT": date_paye
 			}
 
 	@classmethod
@@ -75,5 +78,7 @@ class Dividend:
 
 
 if __name__ == '__main__':
-	div = Dividend.getInfos("/fr/event/dividends/33629838")
+	href = "/fr/event/dividends/33417389"
+	div = Dividend.dividend_history(ticker="ORA")
+	# div = Dividend.getInfos(href=href)
 	print(div)

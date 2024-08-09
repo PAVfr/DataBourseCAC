@@ -1,12 +1,6 @@
 {
-    "BE0003470755": {
-        "INDEX": "CAC_NEXT_20",
-        "ISIN": "BE0003470755",
-        "NAME": "Solvay SA",
-        "SECTOR": null,
-        "TICKER": "SOLB"
-    },
     "BE0974310428": {
+        "HREF_RDMBOURSE": "/xfab-x-fab",
         "INDEX": "CAC_SMALL",
         "ISIN": "BE0974310428",
         "NAME": "X-FAB Silicon Foundries SE",
@@ -14,6 +8,7 @@
         "TICKER": "XFAB"
     },
     "CH0308403085": {
+        "HREF_RDMBOURSE": "/gnro-geneuro",
         "INDEX": "CAC_SMALL",
         "ISIN": "CH0308403085",
         "NAME": "GeNeuro SA",
@@ -21,6 +16,7 @@
         "TICKER": "GNRO"
     },
     "FR0000031577": {
+        "HREF_RDMBOURSE": "/virp-virbac",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000031577",
         "NAME": "Virbac",
@@ -28,6 +24,7 @@
         "TICKER": "VIRP"
     },
     "FR0000031775": {
+        "HREF_RDMBOURSE": "/vct-vicat",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000031775",
         "NAME": "Vicat",
@@ -35,6 +32,7 @@
         "TICKER": "VCT"
     },
     "FR0000032526": {
+        "HREF_RDMBOURSE": "/gbt-guerbet",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000032526",
         "NAME": "Guerbet",
@@ -42,6 +40,7 @@
         "TICKER": "GBT"
     },
     "FR0000033003": {
+        "HREF_RDMBOURSE": "/toup-touax",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000033003",
         "NAME": "TOUAX SCA",
@@ -49,6 +48,7 @@
         "TICKER": "TOUP"
     },
     "FR0000033219": {
+        "HREF_RDMBOURSE": "/alta-altarea",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000033219",
         "NAME": "ALTAREA",
@@ -56,6 +56,7 @@
         "TICKER": "ALTA"
     },
     "FR0000033904": {
+        "HREF_RDMBOURSE": "/jcq-jacquet-metal-sce",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000033904",
         "NAME": "Jacquet Metals",
@@ -63,6 +64,7 @@
         "TICKER": "JCQ"
     },
     "FR0000035081": {
+        "HREF_RDMBOURSE": "/icad-icade",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000035081",
         "NAME": "ICADE",
@@ -70,6 +72,7 @@
         "TICKER": "ICAD"
     },
     "FR0000035164": {
+        "HREF_RDMBOURSE": "/ben-beneteau",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000035164",
         "NAME": "Bénéteau",
@@ -77,6 +80,7 @@
         "TICKER": "BEN"
     },
     "FR0000035370": {
+        "HREF_RDMBOURSE": "/blc-bastide-le-confort",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000035370",
         "NAME": "Bastide Le Confort Médical",
@@ -84,6 +88,7 @@
         "TICKER": "BLC"
     },
     "FR0000038242": {
+        "HREF_RDMBOURSE": "/lbird-lumibird",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000038242",
         "NAME": "LUMIBIRD",
@@ -91,6 +96,7 @@
         "TICKER": "LBIRD"
     },
     "FR0000038606": {
+        "HREF_RDMBOURSE": "/mtu-manitou-bf",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000038606",
         "NAME": "Manitou Group",
@@ -98,6 +104,7 @@
         "TICKER": "MTU"
     },
     "FR0000039109": {
+        "HREF_RDMBOURSE": "/schp-seche-environnem",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000039109",
         "NAME": "Séché Environnement SA",
@@ -105,6 +112,7 @@
         "TICKER": "SCHP"
     },
     "FR0000039232": {
+        "HREF_RDMBOURSE": "/aure-aurea",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000039232",
         "NAME": "AUREA",
@@ -112,6 +120,7 @@
         "TICKER": "AURE"
     },
     "FR0000039299": {
+        "HREF_RDMBOURSE": "/bol-bollore",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000039299",
         "NAME": "Bolloré SE",
@@ -119,6 +128,7 @@
         "TICKER": "BOL"
     },
     "FR0000039620": {
+        "HREF_RDMBOURSE": "/mrn-mersen",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000039620",
         "NAME": "Mersen",
@@ -126,6 +136,7 @@
         "TICKER": "MRN"
     },
     "FR0000044448": {
+        "HREF_RDMBOURSE": "/nex-nexans",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000044448",
         "NAME": "Nexans",
@@ -133,6 +144,7 @@
         "TICKER": "NEX"
     },
     "FR0000045072": {
+        "HREF_RDMBOURSE": "/aca-credit-agricole",
         "INDEX": "CAC_40",
         "ISIN": "FR0000045072",
         "NAME": "CREDIT AGRICOLE",
@@ -140,6 +152,7 @@
         "TICKER": "ACA"
     },
     "FR0000050353": {
+        "HREF_RDMBOURSE": "/fii-lisi",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000050353",
         "NAME": "LISI S.A.",
@@ -147,6 +160,7 @@
         "TICKER": "FII"
     },
     "FR0000050809": {
+        "HREF_RDMBOURSE": "/sop-sopra-steria-group",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000050809",
         "NAME": "Sopra Steria Group",
@@ -154,6 +168,7 @@
         "TICKER": "SOP"
     },
     "FR0000051070": {
+        "HREF_RDMBOURSE": "/mau-maurel-et-prom",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000051070",
         "NAME": "Etablissements Maurel & Prom",
@@ -161,6 +176,7 @@
         "TICKER": "MAU"
     },
     "FR0000051732": {
+        "HREF_RDMBOURSE": "/ato-atos",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000051732",
         "NAME": "AtoS SE",
@@ -168,6 +184,7 @@
         "TICKER": "ATO"
     },
     "FR0000051807": {
+        "HREF_RDMBOURSE": "/tep-teleperformance-se",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0000051807",
         "NAME": "Teleperformance SE",
@@ -175,6 +192,7 @@
         "TICKER": "TEP"
     },
     "FR0000052292": {
+        "HREF_RDMBOURSE": "/rms-hermes-international",
         "INDEX": "CAC_40",
         "ISIN": "FR0000052292",
         "NAME": "Hermès International",
@@ -182,6 +200,7 @@
         "TICKER": "RMS"
     },
     "FR0000053027": {
+        "HREF_RDMBOURSE": "/akw-akwel",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000053027",
         "NAME": "AKWEL",
@@ -189,6 +208,7 @@
         "TICKER": "AKW"
     },
     "FR0000053225": {
+        "HREF_RDMBOURSE": "/mmt-metropole-tv",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000053225",
         "NAME": "Métropole Télévision",
@@ -196,6 +216,7 @@
         "TICKER": "MMT"
     },
     "FR0000053324": {
+        "HREF_RDMBOURSE": "/cda-alpes-compagnie",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000053324",
         "NAME": "Compagnie des Alpes",
@@ -203,6 +224,7 @@
         "TICKER": "CDA"
     },
     "FR0000053381": {
+        "HREF_RDMBOURSE": "/dbg-derichebourg-sa",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000053381",
         "NAME": "Derichebourg",
@@ -210,6 +232,7 @@
         "TICKER": "DBG"
     },
     "FR0000053506": {
+        "HREF_RDMBOURSE": "/cgm-cegedim",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000053506",
         "NAME": "Cegedim",
@@ -217,6 +240,7 @@
         "TICKER": "CGM"
     },
     "FR0000054231": {
+        "HREF_RDMBOURSE": "/hco-highco-sa",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000054231",
         "NAME": "HighCo",
@@ -224,6 +248,7 @@
         "TICKER": "HCO"
     },
     "FR0000054470": {
+        "HREF_RDMBOURSE": "/ubi-ubisoft-entertain",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0000054470",
         "NAME": "Ubisoft Entertainment",
@@ -231,6 +256,7 @@
         "TICKER": "UBI"
     },
     "FR0000054900": {
+        "HREF_RDMBOURSE": "/tfi-tf1",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000054900",
         "NAME": "TF1",
@@ -238,6 +264,7 @@
         "TICKER": "TFI"
     },
     "FR0000061129": {
+        "HREF_RDMBOURSE": "/boi-boiron",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000061129",
         "NAME": "BOIRON",
@@ -245,6 +272,7 @@
         "TICKER": "BOI"
     },
     "FR0000061459": {
+        "HREF_RDMBOURSE": "/perr-perrier-gerard",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000061459",
         "NAME": "Gérard Perrier Industrie",
@@ -252,6 +280,7 @@
         "TICKER": "PERR"
     },
     "FR0000062671": {
+        "HREF_RDMBOURSE": "/exa-exail-technologies",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000062671",
         "NAME": "Exail Technologies",
@@ -259,6 +288,7 @@
         "TICKER": "EXA"
     },
     "FR0000062796": {
+        "HREF_RDMBOURSE": "/vrap-vranken-pommery",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000062796",
         "NAME": "Vranken-Pommery Monopole",
@@ -266,6 +296,7 @@
         "TICKER": "VRAP"
     },
     "FR0000062978": {
+        "HREF_RDMBOURSE": "/alp-adl-partner",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000062978",
         "NAME": "Dékuple",
@@ -273,6 +304,7 @@
         "TICKER": "DKUPL"
     },
     "FR0000063737": {
+        "HREF_RDMBOURSE": "/aub-aubay",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000063737",
         "NAME": "Aubay",
@@ -280,6 +312,7 @@
         "TICKER": "AUB"
     },
     "FR0000063935": {
+        "HREF_RDMBOURSE": "/bon-bonduelle",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000063935",
         "NAME": "Bonduelle",
@@ -287,6 +320,7 @@
         "TICKER": "BON"
     },
     "FR0000064578": {
+        "HREF_RDMBOURSE": "/cov-covivio",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000064578",
         "NAME": "COVIVIO",
@@ -294,6 +328,7 @@
         "TICKER": "COV"
     },
     "FR0000064784": {
+        "HREF_RDMBOURSE": "/peug-peugeot-invest",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000064784",
         "NAME": "PEUGEOT INVEST",
@@ -301,6 +336,7 @@
         "TICKER": "PEUG"
     },
     "FR0000065971": {
+        "HREF_RDMBOURSE": "/grvo-voltz-graines",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000065971",
         "NAME": "Graines Voltz S.A.",
@@ -308,6 +344,7 @@
         "TICKER": "GRVO"
     },
     "FR0000066607": {
+        "HREF_RDMBOURSE": "/lacr-lacroix-sa",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000066607",
         "NAME": "LACROIX Group",
@@ -315,6 +352,7 @@
         "TICKER": "LACR"
     },
     "FR0000066672": {
+        "HREF_RDMBOURSE": "/glo-gl-events-sa",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000066672",
         "NAME": "GL events",
@@ -322,6 +360,7 @@
         "TICKER": "GLO"
     },
     "FR0000066722": {
+        "HREF_RDMBOURSE": "/gui-guillemot",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000066722",
         "NAME": "Guillemot Corporation",
@@ -329,6 +368,7 @@
         "TICKER": "GUI"
     },
     "FR0000066755": {
+        "HREF_RDMBOURSE": "/pig-haulotte-group",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000066755",
         "NAME": "Haulotte Group",
@@ -336,6 +376,7 @@
         "TICKER": "PIG"
     },
     "FR0000071946": {
+        "HREF_RDMBOURSE": "/ate-alten",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000071946",
         "NAME": "Alten",
@@ -343,6 +384,7 @@
         "TICKER": "ATE"
     },
     "FR0000073041": {
+        "HREF_RDMBOURSE": "/vac-pierre-vacances",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000073041",
         "NAME": "Pierre & Vacances",
@@ -350,6 +392,7 @@
         "TICKER": "VAC"
     },
     "FR0000073272": {
+        "HREF_RDMBOURSE": "/saf-safran-s-a",
         "INDEX": "CAC_40",
         "ISIN": "FR0000073272",
         "NAME": "Safran",
@@ -357,6 +400,7 @@
         "TICKER": "SAF"
     },
     "FR0000073298": {
+        "HREF_RDMBOURSE": "/ips-ipsos-sa",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000073298",
         "NAME": "Ipsos",
@@ -364,6 +408,7 @@
         "TICKER": "IPS"
     },
     "FR0000074072": {
+        "HREF_RDMBOURSE": "/big-bigben-interactive",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000074072",
         "NAME": "Bigben Interactive",
@@ -371,6 +416,7 @@
         "TICKER": "BIG"
     },
     "FR0000074148": {
+        "HREF_RDMBOURSE": "/asy-assystem-sa",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000074148",
         "NAME": "Assystem",
@@ -378,6 +424,7 @@
         "TICKER": "ASY"
     },
     "FR0000074783": {
+        "HREF_RDMBOURSE": "/prc-artmarket-com",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000074783",
         "NAME": "Artmarket.com",
@@ -385,6 +432,7 @@
         "TICKER": "PRC"
     },
     "FR0000075392": {
+        "HREF_RDMBOURSE": "/orap-orapi",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000075392",
         "NAME": "ORAPI",
@@ -392,6 +440,7 @@
         "TICKER": "ORAP"
     },
     "FR0000076861": {
+        "HREF_RDMBOURSE": "/eos-acteos",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000076861",
         "NAME": "Acteos",
@@ -399,6 +448,7 @@
         "TICKER": "EOS"
     },
     "FR0000077919": {
+        "HREF_RDMBOURSE": "/dec-jc-decaux-sa",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000077919",
         "NAME": "JCDECAUX SE",
@@ -406,6 +456,7 @@
         "TICKER": "DEC"
     },
     "FR0000120073": {
+        "HREF_RDMBOURSE": "/ai-air-liquide",
         "INDEX": "CAC_40",
         "ISIN": "FR0000120073",
         "NAME": "L'Air Liquide",
@@ -413,6 +464,7 @@
         "TICKER": "AI"
     },
     "FR0000120172": {
+        "HREF_RDMBOURSE": "/ca-carrefour",
         "INDEX": "CAC_40",
         "ISIN": "FR0000120172",
         "NAME": "Carrefour",
@@ -420,6 +472,7 @@
         "TICKER": "CA"
     },
     "FR0000120271": {
+        "HREF_RDMBOURSE": "/fp-total",
         "INDEX": "CAC_40",
         "ISIN": "FR0000120271",
         "NAME": "TotalEnergies SE",
@@ -427,6 +480,7 @@
         "TICKER": "TTE"
     },
     "FR0000120321": {
+        "HREF_RDMBOURSE": "/or-l-oreal",
         "INDEX": "CAC_40",
         "ISIN": "FR0000120321",
         "NAME": "L'Oréal",
@@ -434,6 +488,7 @@
         "TICKER": "OR"
     },
     "FR0000120404": {
+        "HREF_RDMBOURSE": "/ac-accor",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0000120404",
         "NAME": "Accor",
@@ -441,6 +496,7 @@
         "TICKER": "AC"
     },
     "FR0000120503": {
+        "HREF_RDMBOURSE": "/en-bouygues",
         "INDEX": "CAC_40",
         "ISIN": "FR0000120503",
         "NAME": "Bouygues SA",
@@ -448,6 +504,7 @@
         "TICKER": "EN"
     },
     "FR0000120560": {
+        "HREF_RDMBOURSE": "/qdt-quadient",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000120560",
         "NAME": "Quadient S.A.",
@@ -455,6 +512,7 @@
         "TICKER": "QDT"
     },
     "FR0000120578": {
+        "HREF_RDMBOURSE": "/san-sanofi",
         "INDEX": "CAC_40",
         "ISIN": "FR0000120578",
         "NAME": "Sanofi",
@@ -462,6 +520,7 @@
         "TICKER": "SAN"
     },
     "FR0000120628": {
+        "HREF_RDMBOURSE": "/cs-axa",
         "INDEX": "CAC_40",
         "ISIN": "FR0000120628",
         "NAME": "AXA",
@@ -469,6 +528,7 @@
         "TICKER": "CS"
     },
     "FR0000120644": {
+        "HREF_RDMBOURSE": "/bn-danone",
         "INDEX": "CAC_40",
         "ISIN": "FR0000120644",
         "NAME": "Danone",
@@ -476,6 +536,7 @@
         "TICKER": "BN"
     },
     "FR0000120669": {
+        "HREF_RDMBOURSE": "/es-esso",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000120669",
         "NAME": "Esso S.A.F.",
@@ -483,6 +544,7 @@
         "TICKER": "ES"
     },
     "FR0000120693": {
+        "HREF_RDMBOURSE": "/ri-pernod-ricard-sa",
         "INDEX": "CAC_40",
         "ISIN": "FR0000120693",
         "NAME": "Pernod Ricard",
@@ -490,6 +552,7 @@
         "TICKER": "RI"
     },
     "FR0000120859": {
+        "HREF_RDMBOURSE": "/nk-imerys-sa",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000120859",
         "NAME": "Imerys",
@@ -497,6 +560,7 @@
         "TICKER": "NK"
     },
     "FR0000120966": {
+        "HREF_RDMBOURSE": "/bb-bic",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000120966",
         "NAME": "Bic",
@@ -504,6 +568,7 @@
         "TICKER": "BB"
     },
     "FR0000121014": {
+        "HREF_RDMBOURSE": "/mc-lvmh",
         "INDEX": "CAC_40",
         "ISIN": "FR0000121014",
         "NAME": "LVMH Moët Hennessy Louis Vuitton SE",
@@ -511,6 +576,7 @@
         "TICKER": "MC"
     },
     "FR0000121121": {
+        "HREF_RDMBOURSE": "/rf-eurazeo",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000121121",
         "NAME": "Eurazeo SE",
@@ -518,6 +584,7 @@
         "TICKER": "RF"
     },
     "FR0000121147": {
+        "HREF_RDMBOURSE": "/frvia-forvia",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0000121147",
         "NAME": "FORVIA SE",
@@ -525,6 +592,7 @@
         "TICKER": "FRVIA"
     },
     "FR0000121204": {
+        "HREF_RDMBOURSE": "/mf-wendel",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000121204",
         "NAME": "WENDEL",
@@ -532,6 +600,7 @@
         "TICKER": "MF"
     },
     "FR0000121220": {
+        "HREF_RDMBOURSE": "/sw-sodexo",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0000121220",
         "NAME": "Sodexo",
@@ -539,6 +608,7 @@
         "TICKER": "SW"
     },
     "FR0000121329": {
+        "HREF_RDMBOURSE": "/ho-thales-sa",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0000121329",
         "NAME": "Thales",
@@ -546,6 +616,7 @@
         "TICKER": "HO"
     },
     "FR0000121485": {
+        "HREF_RDMBOURSE": "/ker-kering",
         "INDEX": "CAC_40",
         "ISIN": "FR0000121485",
         "NAME": "Kering",
@@ -553,13 +624,15 @@
         "TICKER": "KER"
     },
     "FR0000121667": {
+        "HREF_RDMBOURSE": null,
         "INDEX": "CAC_40",
         "ISIN": "FR0000121667",
         "NAME": "EssilorLuxottica",
-        "SECTOR": "Santé",
+        "SECTOR": null,
         "TICKER": "EL"
     },
     "FR0000121709": {
+        "HREF_RDMBOURSE": "/sk-seb",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000121709",
         "NAME": "SEB S.A.",
@@ -567,6 +640,7 @@
         "TICKER": "SK"
     },
     "FR0000121964": {
+        "HREF_RDMBOURSE": "/li-klepierre",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0000121964",
         "NAME": "KLEPIERRE",
@@ -574,6 +648,7 @@
         "TICKER": "LI"
     },
     "FR0000121972": {
+        "HREF_RDMBOURSE": "/su-schneider-electric-se",
         "INDEX": "CAC_40",
         "ISIN": "FR0000121972",
         "NAME": "Schneider Electric SE",
@@ -581,6 +656,7 @@
         "TICKER": "SU"
     },
     "FR0000124141": {
+        "HREF_RDMBOURSE": "/vie-veolia-environnement",
         "INDEX": "CAC_40",
         "ISIN": "FR0000124141",
         "NAME": "Veolia Environnement",
@@ -588,6 +664,7 @@
         "TICKER": "VIE"
     },
     "FR0000125007": {
+        "HREF_RDMBOURSE": "/sgo-saint-gobain",
         "INDEX": "CAC_40",
         "ISIN": "FR0000125007",
         "NAME": "Compagnie de Saint-Gobain",
@@ -595,6 +672,7 @@
         "TICKER": "SGO"
     },
     "FR0000125338": {
+        "HREF_RDMBOURSE": "/cap-capgemini-se",
         "INDEX": "CAC_40",
         "ISIN": "FR0000125338",
         "NAME": "Capgemini SE",
@@ -602,6 +680,7 @@
         "TICKER": "CAP"
     },
     "FR0000125486": {
+        "HREF_RDMBOURSE": "/dg-vinci",
         "INDEX": "CAC_40",
         "ISIN": "FR0000125486",
         "NAME": "VINCI",
@@ -609,6 +688,7 @@
         "TICKER": "DG"
     },
     "FR0000127771": {
+        "HREF_RDMBOURSE": "/viv-vivendi",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0000127771",
         "NAME": "Vivendi SE",
@@ -616,6 +696,7 @@
         "TICKER": "VIV"
     },
     "FR0000130213": {
+        "HREF_RDMBOURSE": "/mmb-lagardere",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000130213",
         "NAME": "Lagardère S.A.",
@@ -623,6 +704,7 @@
         "TICKER": "MMB"
     },
     "FR0000130395": {
+        "HREF_RDMBOURSE": "/rco-remy-cointreau",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0000130395",
         "NAME": "Rémy Cointreau",
@@ -630,6 +712,7 @@
         "TICKER": "RCO"
     },
     "FR0000130452": {
+        "HREF_RDMBOURSE": "/fgr-eiffage",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0000130452",
         "NAME": "Eiffage S.A.",
@@ -637,6 +720,7 @@
         "TICKER": "FGR"
     },
     "FR0000130577": {
+        "HREF_RDMBOURSE": "/pub-publicis-groupe-sa",
         "INDEX": "CAC_40",
         "ISIN": "FR0000130577",
         "NAME": "Publicis Groupe S.A.",
@@ -644,6 +728,7 @@
         "TICKER": "PUB"
     },
     "FR0000130692": {
+        "HREF_RDMBOURSE": "/cri-chargeurs-sa",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0000130692",
         "NAME": "Chargeurs",
@@ -651,6 +736,7 @@
         "TICKER": "CRI"
     },
     "FR0000130809": {
+        "HREF_RDMBOURSE": "/gle-societe-generale",
         "INDEX": "CAC_40",
         "ISIN": "FR0000130809",
         "NAME": "SOCIETE GENERALE",
@@ -658,6 +744,7 @@
         "TICKER": "GLE"
     },
     "FR0000131104": {
+        "HREF_RDMBOURSE": "/bnp-bnp-paribas",
         "INDEX": "CAC_40",
         "ISIN": "FR0000131104",
         "NAME": "BNP PARIBAS ACT.A",
@@ -665,6 +752,7 @@
         "TICKER": "BNP"
     },
     "FR0000131757": {
+        "HREF_RDMBOURSE": "/era-eramet",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0000131757",
         "NAME": "Eramet",
@@ -672,6 +760,7 @@
         "TICKER": "ERA"
     },
     "FR0000131906": {
+        "HREF_RDMBOURSE": "/rno-renault",
         "INDEX": "CAC_40",
         "ISIN": "FR0000131906",
         "NAME": "Renault",
@@ -679,6 +768,7 @@
         "TICKER": "RNO"
     },
     "FR0000133308": {
+        "HREF_RDMBOURSE": "/ora-orange",
         "INDEX": "CAC_40",
         "ISIN": "FR0000133308",
         "NAME": "Orange",
@@ -686,6 +776,7 @@
         "TICKER": "ORA"
     },
     "FR0004007813": {
+        "HREF_RDMBOURSE": "/kof-kaufman-et-broad",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004007813",
         "NAME": "Kaufman & Broad SA",
@@ -693,6 +784,7 @@
         "TICKER": "KOF"
     },
     "FR0004024222": {
+        "HREF_RDMBOURSE": "/itp-interparfums",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0004024222",
         "NAME": "Interparfums",
@@ -700,6 +792,7 @@
         "TICKER": "ITP"
     },
     "FR0004034072": {
+        "HREF_RDMBOURSE": "/xil-xilam-animation",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004034072",
         "NAME": "Xilam Animation",
@@ -707,6 +800,7 @@
         "TICKER": "XIL"
     },
     "FR0004038263": {
+        "HREF_RDMBOURSE": "/parro-parrot",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004038263",
         "NAME": "Parrot",
@@ -714,6 +808,7 @@
         "TICKER": "PARRO"
     },
     "FR0004040608": {
+        "HREF_RDMBOURSE": "/abca-abc-arbitrage-sa",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004040608",
         "NAME": "ABC ARBITRAGE",
@@ -721,6 +816,7 @@
         "TICKER": "ABCA"
     },
     "FR0004056851": {
+        "HREF_RDMBOURSE": "/vla-valneva",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0004056851",
         "NAME": "Valneva",
@@ -728,6 +824,7 @@
         "TICKER": "VLA"
     },
     "FR0004065605": {
+        "HREF_RDMBOURSE": "/medcl-medincell",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004065605",
         "NAME": "MedinCell S.A.",
@@ -735,6 +832,7 @@
         "TICKER": "MEDCL"
     },
     "FR0004125920": {
+        "HREF_RDMBOURSE": "/amun-amundi",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0004125920",
         "NAME": "AMUNDI",
@@ -742,6 +840,7 @@
         "TICKER": "AMUN"
     },
     "FR0004155000": {
+        "HREF_RDMBOURSE": "/sfpi-groupe-sfpi",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004155000",
         "NAME": "Groupe SFPI",
@@ -749,6 +848,7 @@
         "TICKER": "SFPI"
     },
     "FR0004156297": {
+        "HREF_RDMBOURSE": "/lin-linedata-services",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004156297",
         "NAME": "Linedata Services",
@@ -756,6 +856,7 @@
         "TICKER": "LIN"
     },
     "FR0004163111": {
+        "HREF_RDMBOURSE": "/gnft-genfit",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004163111",
         "NAME": "GENFIT",
@@ -763,6 +864,7 @@
         "TICKER": "GNFT"
     },
     "FR0004170017": {
+        "HREF_RDMBOURSE": "/lna-lna-sante",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004170017",
         "NAME": "LNA Santé",
@@ -770,6 +872,7 @@
         "TICKER": "LNA"
     },
     "FR0004177046": {
+        "HREF_RDMBOURSE": "/metex-metabolic-explorer",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004177046",
         "NAME": "METabolic EXplorer",
@@ -777,6 +880,7 @@
         "TICKER": "METEX"
     },
     "FR0004180578": {
+        "HREF_RDMBOURSE": "/swp-sword-group",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004180578",
         "NAME": "Sword Group SE",
@@ -784,6 +888,7 @@
         "TICKER": "SWP"
     },
     "FR0004186856": {
+        "HREF_RDMBOURSE": "/veto-vetoquinol",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0004186856",
         "NAME": "Vetoquinol SA",
@@ -791,6 +896,7 @@
         "TICKER": "VETO"
     },
     "FR0005175080": {
+        "HREF_RDMBOURSE": "/tng-transgene",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0005175080",
         "NAME": "Transgene",
@@ -798,6 +904,7 @@
         "TICKER": "TNG"
     },
     "FR0005691656": {
+        "HREF_RDMBOURSE": "/tri-trigano",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0005691656",
         "NAME": "Trigano",
@@ -805,6 +912,7 @@
         "TICKER": "TRI"
     },
     "FR0006174348": {
+        "HREF_RDMBOURSE": "/bvi-bureau-veritas-sa",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0006174348",
         "NAME": "Bureau Veritas SA",
@@ -812,6 +920,7 @@
         "TICKER": "BVI"
     },
     "FR0010040865": {
+        "HREF_RDMBOURSE": "/gfc-gecina-nom",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0010040865",
         "NAME": "GECINA",
@@ -819,6 +928,7 @@
         "TICKER": "GFC"
     },
     "FR0010112524": {
+        "HREF_RDMBOURSE": "/nxi-nexity",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0010112524",
         "NAME": "Nexity",
@@ -826,6 +936,7 @@
         "TICKER": "NXI"
     },
     "FR0010151589": {
+        "HREF_RDMBOURSE": "/cafo-cafom",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0010151589",
         "NAME": "Cafom",
@@ -833,6 +944,7 @@
         "TICKER": "CAFO"
     },
     "FR0010193052": {
+        "HREF_RDMBOURSE": "/catg-catana-group",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0010193052",
         "NAME": "Catana Group",
@@ -840,6 +952,7 @@
         "TICKER": "CATG"
     },
     "FR0010193979": {
+        "HREF_RDMBOURSE": "/cbot-cbo-territoria-sa",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0010193979",
         "NAME": "CBO TERRITORIA",
@@ -847,6 +960,7 @@
         "TICKER": "CBOT"
     },
     "FR0010208488": {
+        "HREF_RDMBOURSE": "/engi-engie",
         "INDEX": "CAC_40",
         "ISIN": "FR0010208488",
         "NAME": "ENGIE",
@@ -854,6 +968,7 @@
         "TICKER": "ENGI"
     },
     "FR0010220475": {
+        "HREF_RDMBOURSE": "/alo-alstom",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0010220475",
         "NAME": "Alstom",
@@ -861,6 +976,7 @@
         "TICKER": "ALO"
     },
     "FR0010221234": {
+        "HREF_RDMBOURSE": "/etl-eutelsat-communication",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0010221234",
         "NAME": "Eutelsat Communications",
@@ -868,6 +984,7 @@
         "TICKER": "ETL"
     },
     "FR0010241638": {
+        "HREF_RDMBOURSE": "/mery-mercialys",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0010241638",
         "NAME": "MERCIALYS",
@@ -875,6 +992,7 @@
         "TICKER": "MERY"
     },
     "FR0010259150": {
+        "HREF_RDMBOURSE": "/ipn-ipsen",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0010259150",
         "NAME": "Ipsen",
@@ -882,6 +1000,7 @@
         "TICKER": "IPN"
     },
     "FR0010263202": {
+        "HREF_RDMBOURSE": "/par-paref",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0010263202",
         "NAME": "PAREF",
@@ -889,6 +1008,7 @@
         "TICKER": "PAR"
     },
     "FR0010291245": {
+        "HREF_RDMBOURSE": "/vmx-verimatrix",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0010291245",
         "NAME": "Verimatrix",
@@ -896,6 +1016,7 @@
         "TICKER": "VMX"
     },
     "FR0010298620": {
+        "HREF_RDMBOURSE": "/mems-memscap-regpt",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0010298620",
         "NAME": "Memscap",
@@ -903,6 +1024,7 @@
         "TICKER": "MEMS"
     },
     "FR0010307819": {
+        "HREF_RDMBOURSE": "/lr-legrand-sa",
         "INDEX": "CAC_40",
         "ISIN": "FR0010307819",
         "NAME": "Legrand",
@@ -910,6 +1032,7 @@
         "TICKER": "LR"
     },
     "FR0010313833": {
+        "HREF_RDMBOURSE": "/ake-arkema",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0010313833",
         "NAME": "Arkema",
@@ -917,6 +1040,7 @@
         "TICKER": "AKE"
     },
     "FR0010331421": {
+        "HREF_RDMBOURSE": "/iph-innate-pharma",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0010331421",
         "NAME": "Innate Pharma",
@@ -924,6 +1048,7 @@
         "TICKER": "IPH"
     },
     "FR0010340141": {
+        "HREF_RDMBOURSE": "/adp-aeroport-de-paris-adp",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0010340141",
         "NAME": "Aéroports de Paris",
@@ -931,6 +1056,7 @@
         "TICKER": "ADP"
     },
     "FR0010411983": {
+        "HREF_RDMBOURSE": "/scr-scor",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0010411983",
         "NAME": "SCOR SE",
@@ -938,6 +1064,7 @@
         "TICKER": "SCR"
     },
     "FR0010417345": {
+        "HREF_RDMBOURSE": "/dbv-dbv-technologies-sa",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0010417345",
         "NAME": "DBV Technologies",
@@ -945,6 +1072,7 @@
         "TICKER": "DBV"
     },
     "FR0010451203": {
+        "HREF_RDMBOURSE": "/rxl-rexel",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0010451203",
         "NAME": "Rexel",
@@ -952,6 +1080,7 @@
         "TICKER": "RXL"
     },
     "FR0010533075": {
+        "HREF_RDMBOURSE": "/get-getlink-se",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0010533075",
         "NAME": "Getlink SE",
@@ -959,6 +1088,7 @@
         "TICKER": "GET"
     },
     "FR0010557264": {
+        "HREF_RDMBOURSE": "/ab-ab-science",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0010557264",
         "NAME": "AB Science",
@@ -966,6 +1096,7 @@
         "TICKER": "AB"
     },
     "FR0010609206": {
+        "HREF_RDMBOURSE": "/orege-orege",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0010609206",
         "NAME": "Orège",
@@ -973,6 +1104,7 @@
         "TICKER": "OREGE"
     },
     "FR0010667147": {
+        "HREF_RDMBOURSE": "/cofa-coface",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0010667147",
         "NAME": "COFACE",
@@ -980,6 +1112,7 @@
         "TICKER": "COFA"
     },
     "FR0010828137": {
+        "HREF_RDMBOURSE": "/carm-carmila",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0010828137",
         "NAME": "CARMILA",
@@ -987,6 +1120,7 @@
         "TICKER": "CARM"
     },
     "FR0010908533": {
+        "HREF_RDMBOURSE": "/eden-edenred",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0010908533",
         "NAME": "Edenred SE",
@@ -994,6 +1128,7 @@
         "TICKER": "EDEN"
     },
     "FR0010929125": {
+        "HREF_RDMBOURSE": "/idl-id-logistics-group",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0010929125",
         "NAME": "ID Logistics Group",
@@ -1001,6 +1136,7 @@
         "TICKER": "IDL"
     },
     "FR0011184241": {
+        "HREF_RDMBOURSE": "/adoc-adocia",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0011184241",
         "NAME": "Adocia",
@@ -1008,6 +1144,7 @@
         "TICKER": "ADOC"
     },
     "FR0011289040": {
+        "HREF_RDMBOURSE": "/sqi-sqli",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0011289040",
         "NAME": "SQLI",
@@ -1015,6 +1152,7 @@
         "TICKER": "SQI"
     },
     "FR0011341205": {
+        "HREF_RDMBOURSE": "/nano-nanobiotix",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0011341205",
         "NAME": "Nanobiotix",
@@ -1022,6 +1160,7 @@
         "TICKER": "NANO"
     },
     "FR0011466069": {
+        "HREF_RDMBOURSE": "/eki-ekinops",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0011466069",
         "NAME": "Ekinops",
@@ -1029,6 +1168,7 @@
         "TICKER": "EKI"
     },
     "FR0011476928": {
+        "HREF_RDMBOURSE": "/fnac-fnac-darty",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0011476928",
         "NAME": "Fnac Darty",
@@ -1036,6 +1176,7 @@
         "TICKER": "FNAC"
     },
     "FR0011675362": {
+        "HREF_RDMBOURSE": "/neoen-neoen-s-a",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0011675362",
         "NAME": "Neoen",
@@ -1043,20 +1184,15 @@
         "TICKER": "NEOEN"
     },
     "FR0011726835": {
+        "HREF_RDMBOURSE": "/gtt-gaztransport-technigaz",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0011726835",
         "NAME": "Gaztransport & Technigaz",
         "SECTOR": "Energie",
         "TICKER": "GTT"
     },
-    "FR0011742329": {
-        "INDEX": "CAC_SMALL",
-        "ISIN": "FR0011742329",
-        "NAME": "McPhy Energy",
-        "SECTOR": "Industrie",
-        "TICKER": "MCPHY"
-    },
     "FR0011950682": {
+        "HREF_RDMBOURSE": "/sefer-sergeferrari-group",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0011950682",
         "NAME": "SergeFerrari Group",
@@ -1064,6 +1200,7 @@
         "TICKER": "SEFER"
     },
     "FR0011950732": {
+        "HREF_RDMBOURSE": "/elior-elior-group",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0011950732",
         "NAME": "Elior Group",
@@ -1071,6 +1208,7 @@
         "TICKER": "ELIOR"
     },
     "FR0011981968": {
+        "HREF_RDMBOURSE": "/wln-worldline-sa",
         "INDEX": "CAC_40",
         "ISIN": "FR0011981968",
         "NAME": "Worldline",
@@ -1078,6 +1216,7 @@
         "TICKER": "WLN"
     },
     "FR0011995588": {
+        "HREF_RDMBOURSE": "/vltsa-voltalia",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0011995588",
         "NAME": "Voltalia SA",
@@ -1085,6 +1224,7 @@
         "TICKER": "VLTSA"
     },
     "FR0012127173": {
+        "HREF_RDMBOURSE": "/ose-ose-immuno",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0012127173",
         "NAME": "OSE Immunotherapeutics",
@@ -1092,6 +1232,7 @@
         "TICKER": "OSE"
     },
     "FR0012333284": {
+        "HREF_RDMBOURSE": "/abvx-abivax",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0012333284",
         "NAME": "Abivax",
@@ -1099,6 +1240,7 @@
         "TICKER": "ABVX"
     },
     "FR0012432516": {
+        "HREF_RDMBOURSE": "/poxel-poxel-sa",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0012432516",
         "NAME": "Poxel",
@@ -1106,6 +1248,7 @@
         "TICKER": "POXEL"
     },
     "FR0012435121": {
+        "HREF_RDMBOURSE": "/elis-elis",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0012435121",
         "NAME": "Elis",
@@ -1113,6 +1256,7 @@
         "TICKER": "ELIS"
     },
     "FR0012613610": {
+        "HREF_RDMBOURSE": "/pwg-prodways",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0012613610",
         "NAME": "Prodways Group",
@@ -1120,6 +1264,7 @@
         "TICKER": "PWG"
     },
     "FR0012616852": {
+        "HREF_RDMBOURSE": "/abnx-abionyx-pharma",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0012616852",
         "NAME": "ABIONYX Pharma",
@@ -1127,6 +1272,7 @@
         "TICKER": "ABNX"
     },
     "FR0012757854": {
+        "HREF_RDMBOURSE": "/spie-spie",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0012757854",
         "NAME": "SPIE SA",
@@ -1134,6 +1280,7 @@
         "TICKER": "SPIE"
     },
     "FR0012882389": {
+        "HREF_RDMBOURSE": "/eqs-equasens",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0012882389",
         "NAME": "Equasens",
@@ -1141,6 +1288,7 @@
         "TICKER": "EQS"
     },
     "FR0013006558": {
+        "HREF_RDMBOURSE": "/srp-showroomprive",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013006558",
         "NAME": "SRP Groupe",
@@ -1148,6 +1296,7 @@
         "TICKER": "SRP"
     },
     "FR0013030152": {
+        "HREF_RDMBOURSE": "/fde-francaise-energie",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013030152",
         "NAME": "La Française de l'Energie",
@@ -1155,6 +1304,7 @@
         "TICKER": "FDE"
     },
     "FR0013153541": {
+        "HREF_RDMBOURSE": "/mdm-maison-du-monde",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013153541",
         "NAME": "Maisons du Monde",
@@ -1162,6 +1312,7 @@
         "TICKER": "MDM"
     },
     "FR0013154002": {
+        "HREF_RDMBOURSE": "/dim-sartorius-sted-bio",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0013154002",
         "NAME": "Sartorius Stedim Biotech",
@@ -1169,6 +1320,7 @@
         "TICKER": "DIM"
     },
     "FR0013176526": {
+        "HREF_RDMBOURSE": "/fr-valeo",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0013176526",
         "NAME": "Valeo",
@@ -1176,6 +1328,7 @@
         "TICKER": "FR"
     },
     "FR0013183985": {
+        "HREF_RDMBOURSE": "/sight-gensight-biologics",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013183985",
         "NAME": "GenSight Biologics S.A.",
@@ -1183,6 +1336,7 @@
         "TICKER": "SIGHT"
     },
     "FR0013185857": {
+        "HREF_RDMBOURSE": "/abeo-abeo",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013185857",
         "NAME": "ABEO SA",
@@ -1190,6 +1344,7 @@
         "TICKER": "ABEO"
     },
     "FR0013214145": {
+        "HREF_RDMBOURSE": "/smcp-smcp",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013214145",
         "NAME": "SMCP S.A",
@@ -1197,6 +1352,7 @@
         "TICKER": "SMCP"
     },
     "FR0013227113": {
+        "HREF_RDMBOURSE": "/soi-soitec",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0013227113",
         "NAME": "Soitec",
@@ -1204,6 +1360,7 @@
         "TICKER": "SOI"
     },
     "FR0013233012": {
+        "HREF_RDMBOURSE": "/iva-inventiva",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013233012",
         "NAME": "Inventiva",
@@ -1211,6 +1368,7 @@
         "TICKER": "IVA"
     },
     "FR0013252186": {
+        "HREF_RDMBOURSE": "/pvl-plast-val-loire",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013252186",
         "NAME": "Plastiques du Val-de-Loire",
@@ -1218,20 +1376,15 @@
         "TICKER": "PVL"
     },
     "FR0013258399": {
+        "HREF_RDMBOURSE": "/balyo-balyo",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013258399",
         "NAME": "BALYO",
         "SECTOR": "Industrie",
         "TICKER": "BALYO"
     },
-    "FR0013258662": {
-        "INDEX": "CAC_MID_60",
-        "ISIN": "FR0013258662",
-        "NAME": "ALD Automotive",
-        "SECTOR": "Consommation discrétionnaire",
-        "TICKER": "AYV"
-    },
     "FR0013269123": {
+        "HREF_RDMBOURSE": "/rui-rubis",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0013269123",
         "NAME": "Rubis",
@@ -1239,6 +1392,7 @@
         "TICKER": "RUI"
     },
     "FR0013280286": {
+        "HREF_RDMBOURSE": "/bim-biomerieux",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR0013280286",
         "NAME": "bioMérieux",
@@ -1246,6 +1400,7 @@
         "TICKER": "BIM"
     },
     "FR0013326246": {
+        "HREF_RDMBOURSE": "/urw-unibail-rodamco-westfield-urw-pa",
         "INDEX": "CAC_40",
         "ISIN": "FR0013326246",
         "NAME": "UNIBAIL-RODAM.UNIT",
@@ -1253,6 +1408,7 @@
         "TICKER": "URW"
     },
     "FR0013357621": {
+        "HREF_RDMBOURSE": "/wave-wavestone",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013357621",
         "NAME": "Wavestone",
@@ -1260,6 +1416,7 @@
         "TICKER": "WAVE"
     },
     "FR0013379484": {
+        "HREF_RDMBOURSE": "/s30-solutions-30-se",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0013379484",
         "NAME": "Solutions 30 SE",
@@ -1267,6 +1424,7 @@
         "TICKER": "S30"
     },
     "FR0013426004": {
+        "HREF_RDMBOURSE": "/cla-claranova",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013426004",
         "NAME": "Claranova SE",
@@ -1274,6 +1432,7 @@
         "TICKER": "CLA"
     },
     "FR0013447729": {
+        "HREF_RDMBOURSE": "/vrla-verallia",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0013447729",
         "NAME": "Verallia",
@@ -1281,6 +1440,7 @@
         "TICKER": "VRLA"
     },
     "FR0013451333": {
+        "HREF_RDMBOURSE": "/fdj-francaise-des-jeux-fdj",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0013451333",
         "NAME": "La Française des Jeux",
@@ -1288,6 +1448,7 @@
         "TICKER": "FDJ"
     },
     "FR0013455482": {
+        "HREF_RDMBOURSE": "/atld-atland",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013455482",
         "NAME": "ATLAND",
@@ -1295,6 +1456,7 @@
         "TICKER": "ATLD"
     },
     "FR0013482791": {
+        "HREF_RDMBOURSE": "/nacon-nacon",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013482791",
         "NAME": "NACON",
@@ -1302,6 +1464,7 @@
         "TICKER": "NACON"
     },
     "FR0013505062": {
+        "HREF_RDMBOURSE": "/vanti-vantiva-s-a",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0013505062",
         "NAME": "Vantiva",
@@ -1309,6 +1472,7 @@
         "TICKER": "VANTI"
     },
     "FR0013506730": {
+        "HREF_RDMBOURSE": "/vk-vallourec-sa",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0013506730",
         "NAME": "Vallourec",
@@ -1316,6 +1480,7 @@
         "TICKER": "VK"
     },
     "FR00140006O9": {
+        "HREF_RDMBOURSE": "/local-solocal-group",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR00140006O9",
         "NAME": "SoLocal Group",
@@ -1323,6 +1488,7 @@
         "TICKER": "LOCAL"
     },
     "FR0014000MR3": {
+        "HREF_RDMBOURSE": "/erf-eurofins-scient",
         "INDEX": "CAC_40",
         "ISIN": "FR0014000MR3",
         "NAME": "Eurofins Scientific SE",
@@ -1330,6 +1496,7 @@
         "TICKER": "ERF"
     },
     "FR0014003FE9": {
+        "HREF_RDMBOURSE": "/blv-believe",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0014003FE9",
         "NAME": "Believe",
@@ -1337,6 +1504,7 @@
         "TICKER": "BLV"
     },
     "FR0014003TT8": {
+        "HREF_RDMBOURSE": "/dsy-dassault-systemes-sa",
         "INDEX": "CAC_40",
         "ISIN": "FR0014003TT8",
         "NAME": "Dassault Systèmes SE",
@@ -1344,6 +1512,7 @@
         "TICKER": "DSY"
     },
     "FR0014003U94": {
+        "HREF_RDMBOURSE": "/arami-aramis-group",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0014003U94",
         "NAME": "Aramis Group",
@@ -1351,6 +1520,7 @@
         "TICKER": "ARAMI"
     },
     "FR0014003VY4": {
+        "HREF_RDMBOURSE": "/hdf-hydrogene-france",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0014003VY4",
         "NAME": "Hydrogène de France",
@@ -1358,6 +1528,7 @@
         "TICKER": "HDF"
     },
     "FR0014004L86": {
+        "HREF_RDMBOURSE": "/am-dassault-aviation-sa",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0014004L86",
         "NAME": "Dassault Aviation",
@@ -1365,6 +1536,7 @@
         "TICKER": "AM"
     },
     "FR0014005AL0": {
+        "HREF_RDMBOURSE": "/antin-antin-infrastructure-partners",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0014005AL0",
         "NAME": "ANTIN INFRASTRUCTURE PARTNERS",
@@ -1372,6 +1544,7 @@
         "TICKER": "ANTIN"
     },
     "FR0014005HJ9": {
+        "HREF_RDMBOURSE": "/ovh-ovh-group-sas",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0014005HJ9",
         "NAME": "OVH Groupe",
@@ -1379,6 +1552,7 @@
         "TICKER": "OVH"
     },
     "FR0014005SB3": {
+        "HREF_RDMBOURSE": "/forse-forsee-power",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0014005SB3",
         "NAME": "Forsee Power",
@@ -1386,6 +1560,7 @@
         "TICKER": "FORSE"
     },
     "FR0014008VX5": {
+        "HREF_RDMBOURSE": "/eapi-euroapi-sa",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR0014008VX5",
         "NAME": "EUROAPI",
@@ -1393,6 +1568,7 @@
         "TICKER": "EAPI"
     },
     "FR0014009YQ1": {
+        "HREF_RDMBOURSE": "/lhyfe-lhyfe",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR0014009YQ1",
         "NAME": "Lhyfe",
@@ -1400,6 +1576,7 @@
         "TICKER": "LHYFE"
     },
     "FR001400AJ45": {
+        "HREF_RDMBOURSE": "/ml-michelin",
         "INDEX": "CAC_40",
         "ISIN": "FR001400AJ45",
         "NAME": "Compagnie Générale des Etablissements Michelin",
@@ -1407,6 +1584,7 @@
         "TICKER": "ML"
     },
     "FR001400CFI7": {
+        "HREF_RDMBOURSE": "/avt-avenir-telecom",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR001400CFI7",
         "NAME": "Avenir Telecom",
@@ -1414,13 +1592,15 @@
         "TICKER": "AVT"
     },
     "FR001400IE67": {
+        "HREF_RDMBOURSE": "/mhm-myhotelmatch",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR001400IE67",
-        "NAME": "MYHOTELMATCH",
+        "NAME": "MyHotelMatch",
         "SECTOR": "Immobilier",
         "TICKER": "MHM"
     },
     "FR001400J770": {
+        "HREF_RDMBOURSE": "/af-air-france-klm-sa",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "FR001400J770",
         "NAME": "Air France-KLM",
@@ -1428,20 +1608,15 @@
         "TICKER": "AF"
     },
     "FR001400JY13": {
+        "HREF_RDMBOURSE": "/lat-latecoere",
         "INDEX": "CAC_SMALL",
         "ISIN": "FR001400JY13",
         "NAME": "Latécoère",
         "SECTOR": "Industrie",
         "TICKER": "LAT"
     },
-    "FR001400NLM4": {
-        "INDEX": "CAC_MID_60",
-        "ISIN": "FR001400NLM4",
-        "NAME": "EMEIS",
-        "SECTOR": "Services aux collectivités",
-        "TICKER": "EMEIS"
-    },
     "FR001400OKR3": {
+        "HREF_RDMBOURSE": "/co-casino-guichard",
         "INDEX": "CAC_MID_60",
         "ISIN": "FR001400OKR3",
         "NAME": "Casino, Guichard-Perrachon SA",
@@ -1449,27 +1624,15 @@
         "TICKER": "CO"
     },
     "LU0088087324": {
+        "HREF_RDMBOURSE": "/sesg-ses-sa-fdr-class-a",
         "INDEX": "CAC_MID_60",
         "ISIN": "LU0088087324",
         "NAME": "SES S.A.",
         "SECTOR": "Télécommunications",
         "TICKER": "SESG"
     },
-    "LU0569974404": {
-        "INDEX": "CAC_MID_60",
-        "ISIN": "LU0569974404",
-        "NAME": "Aperam S.A.",
-        "SECTOR": null,
-        "TICKER": "APAM"
-    },
-    "LU1598757687": {
-        "INDEX": "CAC_40",
-        "ISIN": "LU1598757687",
-        "NAME": "ArcelorMittal",
-        "SECTOR": null,
-        "TICKER": "MT"
-    },
     "NL0000226223": {
+        "HREF_RDMBOURSE": "/stm-stmicroelectronics",
         "INDEX": "CAC_40",
         "ISIN": "NL0000226223",
         "NAME": "STMicroelectronics N.V.",
@@ -1477,6 +1640,7 @@
         "TICKER": "STMPA"
     },
     "NL0000235190": {
+        "HREF_RDMBOURSE": "/air-airbus-se",
         "INDEX": "CAC_40",
         "ISIN": "NL0000235190",
         "NAME": "Airbus SE",
@@ -1484,6 +1648,7 @@
         "TICKER": "AIR"
     },
     "NL0006294274": {
+        "HREF_RDMBOURSE": "/enx-euronext",
         "INDEX": "CAC_NEXT_20",
         "ISIN": "NL0006294274",
         "NAME": "EURONEXT",
@@ -1491,6 +1656,7 @@
         "TICKER": "ENX"
     },
     "NL0014559478": {
+        "HREF_RDMBOURSE": "/te-technip-energies",
         "INDEX": "CAC_MID_60",
         "ISIN": "NL0014559478",
         "NAME": "Technip Energies N.V.",
@@ -1498,6 +1664,7 @@
         "TICKER": "TE"
     },
     "NL00150001Q9": {
+        "HREF_RDMBOURSE": "/stla-stellantis",
         "INDEX": "CAC_40",
         "ISIN": "NL00150001Q9",
         "NAME": "Stellantis N.V.",
