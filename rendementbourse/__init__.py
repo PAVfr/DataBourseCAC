@@ -12,7 +12,7 @@ class RendementBourse:
 	@classmethod
 	def find(cls, value: str) -> dict:
 		"""
-		:param value: find value get keys SECTOR, CODE, TICKER, NAME, HREF
+		:param value: find value get keys TICKER, HREF
 		"""
 		for line in cls.Sector.sectors:
 			values = [v for k, v in line.items()]
