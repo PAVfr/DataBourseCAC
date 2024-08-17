@@ -36,16 +36,7 @@ class UpdateFiles:
 		self.file_enterprise.data = data
 		self.file_enterprise.save(sort_keys=False)
 		# CSV
-		data = {}
-		values = []
-		for m, x in self.file_enterprise.data.items():
-			values.append(x)
-		for line in values:
-			for k, v in line.items():
-				if data.get(k) is None:
-					data[k] = []
-				data[k].append(v)
-		pandas.DataFrame(data).to_csv(f"{self.file_enterprise.path.rsplit('.', maxsplit=1)[0]}.csv", index=False)
+		self.enterpriseToCSV()
 
 	def updateDividend(self, forced_check: bool = False):
 		self.file_enterprise.load()
@@ -79,7 +70,7 @@ class UpdateFiles:
 				# Ignore les dividendes Passé
 				last_div = datetime.date(1900, 1, 1)
 				if self.file_dividend.data.get(ISIN):
-					last_div = fdate(list(self.file_dividend.data[ISIN].keys())[-1]) + datetime.timedelta(days=7)
+					last_div = fdate(list(self.file_dividend.data[ISIN].keys())[-1]) + datetime.timedelta(days=14)
 				if fdate(txt=ex_dividend) < last_div:
 					continue
 				# Ignore les dividendes Future
@@ -99,36 +90,40 @@ class UpdateFiles:
 					print(f"\t\t{data}")
 
 				# JSON
-				self.file_dividend.save(sort_keys=True)
-			# CSV
-			data = {}
-			values = []
-			for k, v in self.file_dividend.data.items():
-				for m, x in v.items():
-					values.append(x)
-			for line in values:
-				for k, v in line.items():
-					if data.get(k) is None:
-						data[k] = []
-					data[k].append(v)
-			pandas.DataFrame(data).to_csv(f"{self.file_dividend.path.rsplit('.', maxsplit=1)[0]}.csv", index=False)
+				self.file_dividend.save(sort_keys=False)
+		# CSV
+		self.dividendToCSV()
 
-	def test(self):
-		ticker = "ORA"
-
+	def enterpriseToCSV(self):
 		self.file_enterprise.load()
-		self.file_dividend.load()
-		fdate = lambda txt: datetime.datetime.strptime(txt, "%Y-%m-%d").date()
-		findISIN = lambda ticker: {"_": v.get("ISIN") for v in self.file_enterprise.data.values() if v.get("TICKER") in [ticker]}.get("_")
-		ISIN = findISIN(ticker=ticker)
+		data = {}
+		values = []
+		for m, x in self.file_enterprise.data.items():
+			values.append(x)
+		for line in values:
+			for k, v in line.items():
+				if data.get(k) is None:
+					data[k] = []
+				data[k].append(v)
+		pandas.DataFrame(data).to_csv(f"{self.file_enterprise.path.rsplit('.', maxsplit=1)[0]}.csv", index=False)
 
-		last_div = fdate(self.file_dividend.data[ISIN].popitem()[0]) + datetime.timedelta(days=7)
-		print(last_div)
-		# 2024-06-05
+	def dividendToCSV(self):
+		self.file_dividend.load()
+		data = {}
+		values = []
+		for k, v in self.file_dividend.data.items():
+			for m, x in v.items():
+				values.append(x)
+		for line in values:
+			for k, v in line.items():
+				if data.get(k) is None:
+					data[k] = []
+				data[k].append(v)
+		pandas.DataFrame(data).to_csv(f"{self.file_dividend.path.rsplit('.', maxsplit=1)[0]}.csv", index=False)
 
 
 if __name__ == '__main__':
 	u = UpdateFiles()
 	# u.updateEnterprise()
-	u.updateDividend()
-	# u.test()
+	# u.updateDividend()
+	u.dividendToCSV()
