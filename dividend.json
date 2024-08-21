@@ -583,6 +583,12 @@
             "EX_DIVIDEND": "2023-10-19",
             "VALUE": "0,100",
             "CHECKED": false
+        },
+        "2024-08-21": {
+            "ISIN": "FR0000064602",
+            "EX_DIVIDEND": "2024-08-21",
+            "VALUE": "0,05",
+            "CHECKED": false
         }
     },
     "FR0000120404": {
@@ -28334,6 +28340,12 @@
             "ISIN": "GB00B5ZN1N88",
             "EX_DIVIDEND": "2024-03-14",
             "VALUE": "0,22",
+            "CHECKED": false
+        },
+        "2024-08-08": {
+            "ISIN": "GB00B5ZN1N88",
+            "EX_DIVIDEND": "2024-08-08",
+            "VALUE": "0,11",
             "CHECKED": false
         }
     },

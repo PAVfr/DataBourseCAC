@@ -1,7 +1,6 @@
 
 import pandas
 import datetime
-import time
 
 from file_json import EasyFileJson
 from bourseDirect import BourseDirect
@@ -53,16 +52,16 @@ class UpdateFiles:
 			if ISIN not in self.file_dividend.data.keys() and forced_check in [None, False]:
 				continue
 
-			print(ticker)
+			# Recherche les dividendes
+			lines = []
+			if forced_check:
+				lines = RendementBourse.Dividend.dividend(href=findHREF(ticker=ticker))
+			for v in StockEvents.dividend.dividend_history(ticker=ticker):
+				lines.append(v)
 
-			# Recherche les dividendes sur RendementBourse, puis sur StockEvents si inexistant sur le premier.
-			lines = RendementBourse.Dividend.dividend(href=findHREF(ticker=ticker))
-			if not lines:
-				for v in StockEvents.dividend.dividend_history(ticker=ticker):
-					lines.append(v)
+			# print(ticker)
 
 			for line in lines:
-				time.sleep(0.02)
 				# Variable
 				ex_dividend = line.get('EX_DIVIDEND')
 				value = line.get('VALUE')
@@ -125,5 +124,5 @@ class UpdateFiles:
 if __name__ == '__main__':
 	u = UpdateFiles()
 	# u.updateEnterprise()
-	# u.updateDividend()
-	u.dividendToCSV()
+	u.updateDividend()
+	# u.dividendToCSV()

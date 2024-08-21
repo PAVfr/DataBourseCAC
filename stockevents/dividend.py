@@ -2,6 +2,7 @@
 from options import Options
 
 import re
+import time
 import datetime
 
 
@@ -10,6 +11,8 @@ class Dividend:
 
 	@classmethod
 	def dividend_history(cls, ticker: str):
+		print(ticker)
+
 		values = []
 		soup = Options.requestGet(f"{cls.URL}/fr/stock/{ticker}.PA")
 		lines = [element for element in soup.find_all("a", href=True) if element.get("href").startswith("/fr/event/dividends/") and element.get("target") is None]
@@ -22,6 +25,7 @@ class Dividend:
 				}
 			data.update(cls.getInfos(href=line.get("href")))
 			values.insert(0, data)
+			time.sleep(0.1)
 		return values
 
 	@classmethod
