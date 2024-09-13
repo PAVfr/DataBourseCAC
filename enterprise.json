@@ -2015,13 +2015,6 @@
         "SECTOR": "Immobilier",
         "INDEX": null
     },
-    "AN8068571086": {
-        "ISIN": "AN8068571086",
-        "TICKER": "SLB",
-        "NAME": "SCHLUMBERGER",
-        "SECTOR": "Energie",
-        "INDEX": null
-    },
     "FR0000121972": {
         "ISIN": "FR0000121972",
         "TICKER": "SU",
@@ -2293,13 +2286,6 @@
         "TICKER": "TKO",
         "NAME": "TIKEHAU CAPITAL",
         "SECTOR": "Finance",
-        "INDEX": null
-    },
-    "FR0000066482": {
-        "ISIN": "FR0000066482",
-        "TICKER": "TIPI",
-        "NAME": "TIPIAK",
-        "SECTOR": "Consommation de base",
         "INDEX": null
     },
     "BE0974338700": {

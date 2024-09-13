@@ -123,6 +123,6 @@ class UpdateFiles:
 
 if __name__ == '__main__':
 	u = UpdateFiles()
-	# u.updateEnterprise()
+	u.updateEnterprise()
 	u.updateDividend()
 	# u.dividendToCSV()
