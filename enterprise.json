@@ -1455,8 +1455,8 @@
         "SECTOR": "Consommation de base",
         "INDEX": null
     },
-    "FR0013204336": {
-        "ISIN": "FR0013204336",
+    "FR001400SF56": {
+        "ISIN": "FR001400SF56",
         "TICKER": "LOUP",
         "NAME": "LDC",
         "SECTOR": "Consommation de base",
@@ -1602,13 +1602,6 @@
         "SECTOR": "Industrie",
         "INDEX": "CAC_MID_60"
     },
-    "FR0004177046": {
-        "ISIN": "FR0004177046",
-        "TICKER": "METEX",
-        "NAME": "METABOLIC EXPLORER",
-        "SECTOR": "Matériaux",
-        "INDEX": "CAC_SMALL"
-    },
     "FR0000053225": {
         "ISIN": "FR0000053225",
         "TICKER": "MMT",
@@ -1719,6 +1712,13 @@
         "TICKER": "SBT",
         "NAME": "OENEO",
         "SECTOR": "Consommation de base",
+        "INDEX": null
+    },
+    "NL0015000HT4": {
+        "ISIN": "NL0015000HT4",
+        "TICKER": "ONWD",
+        "NAME": "ONWARD MEDICAL",
+        "SECTOR": "Industrie",
         "INDEX": null
     },
     "FR0000124570": {
@@ -2197,13 +2197,6 @@
         "SECTOR": "Technologies",
         "INDEX": "CAC_SMALL"
     },
-    "BE0974464977": {
-        "ISIN": "BE0974464977",
-        "TICKER": "SYENS",
-        "NAME": "SYENSQO",
-        "SECTOR": "Matériaux",
-        "INDEX": null
-    },
     "FR0000032658": {
         "ISIN": "FR0000032658",
         "TICKER": "SDG",
@@ -2510,7 +2503,7 @@
         "TICKER": "WLN",
         "NAME": "WORLDLINE",
         "SECTOR": "Technologies",
-        "INDEX": "CAC_40"
+        "INDEX": null
     },
     "BE0974310428": {
         "ISIN": "BE0974310428",
