@@ -2515,6 +2515,12 @@
             "EX_DIVIDEND": "2024-07-23",
             "VALUE": "0,28",
             "CHECKED": false
+        },
+        "2024-10-23": {
+            "ISIN": "FR0010481960",
+            "EX_DIVIDEND": "2024-10-23",
+            "VALUE": "0,35",
+            "CHECKED": false
         }
     },
     "FR0010313833": {
@@ -3254,6 +3260,12 @@
             "ISIN": "FR0000063737",
             "EX_DIVIDEND": "2024-05-17",
             "VALUE": "0,700",
+            "CHECKED": false
+        },
+        "2024-11-06": {
+            "ISIN": "FR0000063737",
+            "EX_DIVIDEND": "2024-11-06",
+            "VALUE": "0,5",
             "CHECKED": false
         }
     },
@@ -22235,6 +22247,12 @@
             "EX_DIVIDEND": "2024-07-23",
             "VALUE": "0,030",
             "CHECKED": false
+        },
+        "2024-10-22": {
+            "ISIN": "FI0009000681",
+            "EX_DIVIDEND": "2024-10-22",
+            "VALUE": "0,03",
+            "CHECKED": false
         }
     },
     "FR0000121691": {
@@ -25288,6 +25306,12 @@
             "ISIN": "FR0013269123",
             "EX_DIVIDEND": "2024-06-14",
             "VALUE": "1,980",
+            "CHECKED": false
+        },
+        "2024-11-07": {
+            "ISIN": "FR0013269123",
+            "EX_DIVIDEND": "2024-11-07",
+            "VALUE": "0,75",
             "CHECKED": false
         }
     },
@@ -28695,6 +28719,12 @@
             "EX_DIVIDEND": "2024-04-16",
             "VALUE": "0,500",
             "CHECKED": false
+        },
+        "2024-10-16": {
+            "ISIN": "LU0088087324",
+            "EX_DIVIDEND": "2024-10-16",
+            "VALUE": "0,25",
+            "CHECKED": false
         }
     },
     "FR0013006558": {
@@ -31498,6 +31528,12 @@
             "ISIN": "FR0013295789",
             "EX_DIVIDEND": "2023-11-08",
             "VALUE": "0,600",
+            "CHECKED": false
+        },
+        "2024-11-06": {
+            "ISIN": "FR0013295789",
+            "EX_DIVIDEND": "2024-11-06",
+            "VALUE": "0,6",
             "CHECKED": false
         }
     },
@@ -34834,6 +34870,12 @@
             "ISIN": "FR0000125486",
             "EX_DIVIDEND": "2024-04-23",
             "VALUE": "3,450",
+            "CHECKED": false
+        },
+        "2024-10-16": {
+            "ISIN": "FR0000125486",
+            "EX_DIVIDEND": "2024-10-16",
+            "VALUE": "1,05",
             "CHECKED": false
         }
     },

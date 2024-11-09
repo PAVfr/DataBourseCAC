@@ -496,8 +496,8 @@
         "SECTOR": "Consommation discrétionnaire",
         "INDEX": "CAC_SMALL"
     },
-    "FR0000079659": {
-        "ISIN": "FR0000079659",
+    "FR001400SUB7": {
+        "ISIN": "FR001400SUB7",
         "TICKER": "CBDG",
         "NAME": "CAMBODGE NOM.",
         "SECTOR": "Industrie",
@@ -1126,13 +1126,6 @@
         "SECTOR": "Immobilier",
         "INDEX": null
     },
-    "FR0000030611": {
-        "ISIN": "FR0000030611",
-        "TICKER": "GALIM",
-        "NAME": "GALIMMO",
-        "SECTOR": "Immobilier",
-        "INDEX": null
-    },
     "FR0000034894": {
         "ISIN": "FR0000034894",
         "TICKER": "GAM",
@@ -1616,8 +1609,8 @@
         "SECTOR": "Consommation discrétionnaire",
         "INDEX": "CAC_40"
     },
-    "FR0000076986": {
-        "ISIN": "FR0000076986",
+    "FR001400SU99": {
+        "ISIN": "FR001400SU99",
         "TICKER": "FMONC",
         "NAME": "MONCEY (FIN.) NOM.",
         "SECTOR": "Finance",
@@ -2120,8 +2113,8 @@
         "SECTOR": "Technologies",
         "INDEX": "CAC_MID_60"
     },
-    "FR00140006O9": {
-        "ISIN": "FR00140006O9",
+    "FR001400SA10": {
+        "ISIN": "FR001400SA10",
         "TICKER": "LOCAL",
         "NAME": "SOLOCAL GROUP",
         "SECTOR": "Télécommunications",
