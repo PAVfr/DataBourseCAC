@@ -11871,6 +11871,12 @@
             "EX_DIVIDEND": "2022-07-05",
             "VALUE": "0,2",
             "CHECKED": false
+        },
+        "2024-12-12": {
+            "ISIN": "FR0014005DA7",
+            "EX_DIVIDEND": "2024-12-12",
+            "VALUE": "4,7",
+            "CHECKED": false
         }
     },
     "FR0004527638": {
@@ -15000,6 +15006,12 @@
             "ISIN": "FR0011726835",
             "EX_DIVIDEND": "2024-06-18",
             "VALUE": "2,510",
+            "CHECKED": false
+        },
+        "2024-12-11": {
+            "ISIN": "FR0011726835",
+            "EX_DIVIDEND": "2024-12-11",
+            "VALUE": "3,67",
             "CHECKED": false
         }
     },
@@ -29225,6 +29237,12 @@
             "EX_DIVIDEND": "2024-08-27",
             "VALUE": "6,24",
             "CHECKED": false
+        },
+        "2024-12-20": {
+            "ISIN": "FR0000121220",
+            "EX_DIVIDEND": "2024-12-20",
+            "VALUE": "2,65",
+            "CHECKED": false
         }
     },
     "FR0000078321": {
@@ -30692,6 +30710,12 @@
             "ISIN": "NL0000226223",
             "EX_DIVIDEND": "2024-09-23",
             "VALUE": "0,08",
+            "CHECKED": false
+        },
+        "2024-12-16": {
+            "ISIN": "NL0000226223",
+            "EX_DIVIDEND": "2024-12-16",
+            "VALUE": "0,09",
             "CHECKED": false
         }
     },

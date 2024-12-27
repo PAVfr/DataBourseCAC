@@ -1,4 +1,11 @@
 {
+    "FR0011040500": {
+        "ISIN": "FR0011040500",
+        "TICKER": "74SW",
+        "NAME": "74SOFTWARE",
+        "SECTOR": null,
+        "INDEX": null
+    },
     "FR0010557264": {
         "ISIN": "FR0010557264",
         "TICKER": "AB",
@@ -303,7 +310,7 @@
     "FR0000061780": {
         "ISIN": "FR0000061780",
         "TICKER": "AUGR",
-        "NAME": "AUGROS COSMETICS",
+        "NAME": "AUGROS COSMETIC",
         "SECTOR": "Consommation discrétionnaire",
         "INDEX": null
     },
@@ -327,13 +334,6 @@
         "NAME": "AXA",
         "SECTOR": "Finance",
         "INDEX": "CAC_40"
-    },
-    "FR0011040500": {
-        "ISIN": "FR0011040500",
-        "TICKER": "AXW",
-        "NAME": "AXWAY SOFTWARE",
-        "SECTOR": "Technologies",
-        "INDEX": null
     },
     "FR0013258662": {
         "ISIN": "FR0013258662",
@@ -1511,13 +1511,6 @@
         "SECTOR": "Consommation discrétionnaire",
         "INDEX": "CAC_40"
     },
-    "FR00140085W6": {
-        "ISIN": "FR00140085W6",
-        "TICKER": "MRM",
-        "NAME": "M.R.M",
-        "SECTOR": "Immobilier",
-        "INDEX": null
-    },
     "FR0012634822": {
         "ISIN": "FR0012634822",
         "TICKER": "MAAT",
@@ -1672,13 +1665,6 @@
         "SECTOR": "Immobilier",
         "INDEX": "CAC_MID_60"
     },
-    "FR0012650166": {
-        "ISIN": "FR0012650166",
-        "TICKER": "NHOA",
-        "NAME": "NHOA",
-        "SECTOR": "Industrie",
-        "INDEX": null
-    },
     "FI0009000681": {
         "ISIN": "FI0009000681",
         "TICKER": "NOKIA",
@@ -1727,13 +1713,6 @@
         "NAME": "ORANGE",
         "SECTOR": "Télécommunications",
         "INDEX": "CAC_40"
-    },
-    "FR0000075392": {
-        "ISIN": "FR0000075392",
-        "TICKER": "ORAP",
-        "NAME": "ORAPI",
-        "SECTOR": "Matériaux",
-        "INDEX": "CAC_SMALL"
     },
     "FR0010609206": {
         "ISIN": "FR0010609206",
@@ -2147,13 +2126,6 @@
         "NAME": "SPIE",
         "SECTOR": "Industrie",
         "INDEX": "CAC_MID_60"
-    },
-    "FR0011289040": {
-        "ISIN": "FR0011289040",
-        "TICKER": "SQI",
-        "NAME": "SQLI",
-        "SECTOR": "Technologies",
-        "INDEX": "CAC_SMALL"
     },
     "FR0000054199": {
         "ISIN": "FR0000054199",
