@@ -335,6 +335,13 @@
         "SECTOR": "Finance",
         "INDEX": "CAC_40"
     },
+    "FR001400UEZ6": {
+        "ISIN": "FR001400UEZ6",
+        "TICKER": "CSNV",
+        "NAME": "AXA NV25",
+        "SECTOR": null,
+        "INDEX": null
+    },
     "FR0013258662": {
         "ISIN": "FR0013258662",
         "TICKER": "AYV",
@@ -467,6 +474,13 @@
         "NAME": "BOUYGUES",
         "SECTOR": "Industrie",
         "INDEX": "CAC_40"
+    },
+    "FR001400UJU6": {
+        "ISIN": "FR001400UJU6",
+        "TICKER": "ENNV",
+        "NAME": "BOUYGUES NV25",
+        "SECTOR": null,
+        "INDEX": null
     },
     "FR0006174348": {
         "ISIN": "FR0006174348",
@@ -1462,6 +1476,13 @@
         "SECTOR": "Technologies",
         "INDEX": null
     },
+    "FR001400UJX0": {
+        "ISIN": "FR001400UJX0",
+        "TICKER": "LSSNV",
+        "NAME": "LECTRA NV25",
+        "SECTOR": null,
+        "INDEX": null
+    },
     "FR0010307819": {
         "ISIN": "FR0010307819",
         "TICKER": "LR",
@@ -1966,6 +1987,13 @@
         "SECTOR": "Santé",
         "INDEX": "CAC_40"
     },
+    "FR001400UEY9": {
+        "ISIN": "FR001400UEY9",
+        "TICKER": "SANNV",
+        "NAME": "SANOFI NV25",
+        "SECTOR": null,
+        "INDEX": null
+    },
     "FR0013154002": {
         "ISIN": "FR0013154002",
         "TICKER": "DIM",
@@ -2134,6 +2162,13 @@
         "SECTOR": "Consommation discrétionnaire",
         "INDEX": null
     },
+    "FR001400UEX1": {
+        "ISIN": "FR001400UEX1",
+        "TICKER": "SGONV",
+        "NAME": "ST GOBAIN NV25",
+        "SECTOR": null,
+        "INDEX": null
+    },
     "FR0000064271": {
         "ISIN": "FR0000064271",
         "TICKER": "STF",
@@ -2217,6 +2252,13 @@
         "NAME": "TF1",
         "SECTOR": "Télécommunications",
         "INDEX": "CAC_MID_60"
+    },
+    "FR001400UJV4": {
+        "ISIN": "FR001400UJV4",
+        "TICKER": "TF1NV",
+        "NAME": "TF1 NV25",
+        "SECTOR": null,
+        "INDEX": null
     },
     "FR0013295789": {
         "ISIN": "FR0013295789",
