@@ -2525,5 +2525,12 @@
         "NAME": "XILAM ANIMATION",
         "SECTOR": "Télécommunications",
         "INDEX": "CAC_SMALL"
+    },
+    "KYG7552D1354": {
+        "ISIN": "KYG7552D1354",
+        "TICKER": "YOUNI",
+        "NAME": "YOUNITED FINANCIAL",
+        "SECTOR": null,
+        "INDEX": null
     }
 }
