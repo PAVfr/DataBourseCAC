@@ -86,7 +86,6 @@ class UpdateFiles:
 						"CHECKED": False
 						}
 					self.file_dividend.data[ISIN][ex_dividend] = data
-					print(f"\t\t{data}")
 
 				# JSON
 				self.file_dividend.save(sort_keys=False)

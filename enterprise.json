@@ -454,6 +454,13 @@
         "SECTOR": "Télécommunications",
         "INDEX": "CAC_MID_60"
     },
+    "FR001400XP40": {
+        "ISIN": "FR001400XP40",
+        "TICKER": "BOLNV",
+        "NAME": "BOLLORE SE NV 25",
+        "SECTOR": null,
+        "INDEX": null
+    },
     "FR0000063935": {
         "ISIN": "FR0000063935",
         "TICKER": "BON",
@@ -2526,8 +2533,8 @@
         "SECTOR": "Télécommunications",
         "INDEX": "CAC_SMALL"
     },
-    "KYG7552D1354": {
-        "ISIN": "KYG7552D1354",
+    "LU2999653251": {
+        "ISIN": "LU2999653251",
         "TICKER": "YOUNI",
         "NAME": "YOUNITED FINANCIAL",
         "SECTOR": null,

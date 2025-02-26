@@ -26,6 +26,9 @@ class Dividend:
 			data.update(cls.getInfos(href=line.get("href")))
 			values.insert(0, data)
 			time.sleep(0.1)
+
+			break
+
 		return values
 
 	@classmethod
@@ -36,26 +39,34 @@ class Dividend:
 		"""
 		soup = Options.requestGet(f"{cls.URL}{href}")
 
-		date_ex_dividend = soup.select_one("""#app > div > div.max-w-5xl.mx-auto.py-12.min-h-screen.px-2 > div > 
-			div.col-span-3.md\:col-span-2 > div.relative > div:nth-child(3) > div > div.flex.flex-col.text-left > 
-			p""").text.split("•")[-1].strip()
+		# Ex Dividende
+		date_ex_dividend = None
+		for line in soup.find_all("div", attrs={"class": "flex flex-1 flex-col text-left"}):
+			titre = line.find("p", attrs={"class": "font-manrope font-bold text-lg leading-snug"}).text
+			date = line.find("p", attrs={"class": "font-manrope text-base text-gray-500 leading-snug"}).text.split("•")[-1]
+			if titre == "Date d'Ex-dividende":
+				date_ex_dividend = cls._format_date(date)
+				break
+		if date_ex_dividend is None:
+			raise Exception(f"{cls.URL}{href}")
 
-		date_paye = soup.select_one("""#app > div > div.max-w-5xl.mx-auto.py-12.min-h-screen.px-2 > div > 
-			div.col-span-3.md\:col-span-2 > div.relative > div.flex > div.flex.flex-col.text-left > 
-			p""").text.split("•")[-1].strip()
-
+		# Date Paiement
 		try:
+			date_paye = soup.select_one("""#app > div > div.max-w-5xl.mx-auto.py-12.min-h-screen.px-2 > div > 
+				div.col-span-3.md\:col-span-2 > div.relative > div.flex > div.flex.flex-col.text-left > 
+				p""").text.split("•")[-1]
 			date_paye = cls._format_date(date_paye)
 		except ValueError:
 			date_paye = "N/A"
 
 		return {
-			"EX_DIVIDEND": cls._format_date(date_ex_dividend),
+			"EX_DIVIDEND": date_ex_dividend,
 			"PAYEMENT": date_paye
 			}
 
 	@classmethod
 	def _format_date(cls, txt: str):
+		txt = txt.strip()
 		txt = txt.replace(",", "")
 		# MOIS
 		data = {

@@ -2373,6 +2373,12 @@
             "EX_DIVIDEND": "2024-11-11",
             "VALUE": "0,5",
             "CHECKED": false
+        },
+        "2025-02-25": {
+            "ISIN": "LU0569974404",
+            "EX_DIVIDEND": "2025-02-25",
+            "VALUE": "0,5",
+            "CHECKED": false
         }
     },
     "LU1598757687": {
@@ -6901,6 +6907,12 @@
             "EX_DIVIDEND": "2024-03-05",
             "VALUE": "0,150",
             "CHECKED": false
+        },
+        "2024-12-03": {
+            "ISIN": "FR0010193052",
+            "EX_DIVIDEND": "2024-12-03",
+            "VALUE": "0,18",
+            "CHECKED": false
         }
     },
     "FR0010193979": {
@@ -9651,6 +9663,18 @@
             "EX_DIVIDEND": "2024-02-14",
             "VALUE": "0,160",
             "CHECKED": false
+        },
+        "2024-12-06": {
+            "ISIN": "FR0000053381",
+            "EX_DIVIDEND": "2024-12-06",
+            "VALUE": "0,13",
+            "CHECKED": false
+        },
+        "2025-02-10": {
+            "ISIN": "FR0000053381",
+            "EX_DIVIDEND": "2025-02-10",
+            "VALUE": "0,13",
+            "CHECKED": false
         }
     },
     "FR0000065260": {
@@ -12040,6 +12064,18 @@
             "ISIN": "FR0004527638",
             "EX_DIVIDEND": "2024-02-09",
             "VALUE": "1,570",
+            "CHECKED": false
+        },
+        "2024-12-19": {
+            "ISIN": "FR0004527638",
+            "EX_DIVIDEND": "2024-12-19",
+            "VALUE": "1,15",
+            "CHECKED": false
+        },
+        "2025-02-11": {
+            "ISIN": "FR0004527638",
+            "EX_DIVIDEND": "2025-02-11",
+            "VALUE": "1,15",
             "CHECKED": false
         }
     },
@@ -15566,6 +15602,12 @@
             "ISIN": "FR0000052292",
             "EX_DIVIDEND": "2024-05-02",
             "VALUE": "10,000",
+            "CHECKED": false
+        },
+        "2025-02-18": {
+            "ISIN": "FR0000052292",
+            "EX_DIVIDEND": "2025-02-18",
+            "VALUE": "3,5",
             "CHECKED": false
         }
     },
@@ -22335,6 +22377,12 @@
         "2024-10-22": {
             "ISIN": "FI0009000681",
             "EX_DIVIDEND": "2024-10-22",
+            "VALUE": "0,03",
+            "CHECKED": false
+        },
+        "2025-02-04": {
+            "ISIN": "FI0009000681",
+            "EX_DIVIDEND": "2025-02-04",
             "VALUE": "0,03",
             "CHECKED": false
         }
